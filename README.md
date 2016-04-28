@@ -4,7 +4,7 @@ OpenEmu cheats-database
  
 
 NES
-
+--------------------
  * 1942
  * Bad Dudes (USA)
  * Contra 
