@@ -5,24 +5,18 @@ OpenEmu cheats-database
 
 NES
 
- title="1942"
+ * 1942
+ * Bad Dudes (USA)
+ * Contra 
+ * Excitebike
+ * Ice Climber
+ * Legend of Zelda, The (USA)
+ * Megaman 2
+ * Punch-Out!!
+ * Super Mario Bros. 1
+ * Super Mario Bros. 2
+ * Super Mario Bros. 3
+ * Zelda II - The Adventure of Link
  
- title="Bad Dudes (USA)"
  
- title="Contra" title="Excitebike"
- 
- title="Ice Climber"
- 
- title="Legend of Zelda, The (USA)"
- 
- title="Megaman 2"
- 
- title="Punch-Out!!"
- 
- title="Super Mario Bros. 1" 
- 
- title="Super Mario Bros. 2" 
- 
- title="Super Mario Bros. 3" 
- 
- title="Zelda II - The Adventure of Link"
+
