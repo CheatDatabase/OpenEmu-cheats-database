@@ -25,9 +25,18 @@ NES
  
 Genesis
 --------------------
+ * Altered Beast
+ * Castle of Illusion
+ * Golden Axe II
+ * Golden Axe III
+ * Rambo III (US, 1989)
+ * Shinobi III
  * Sonic The Hedgehog 2 (World)
  * Sonic The Hedgehog 2 (World) (Rev A)
- * Rambo III (US, 1989)
+ * Streets of Rage
+ * Streets of Rage 2
+ * Streets of Rage 3
+ * Super Shinobi II
  
 Sega Master System
 --------------------
