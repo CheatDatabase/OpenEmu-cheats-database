@@ -318,6 +318,105 @@
 				<cheat code="ABEA-BE84" type="Game Genie" description="Infinite time bombs"/>
 				<cheat code="DAGT-AA8C" type="Game Genie" description="MASTER CODE--MUST BE ENTERED"/>
 			</cheats>
+		</game><game title="Golden Axe II">
+			<hashes>
+				<hash md5="4dfe3aaafac7888c10801a3f312d0623"/>
+			</hashes>
+			<cheats>
+				<cheat code="BTJA-AA48" type="Game Genie" description="Infinite lives--both players"/>
+				<cheat code="FEPA-BJYA" type="Game Genie" description="Each magic book is worth 2"/>
+				<cheat code="FEPA-BNYA" type="Game Genie" description="Each magic book is worth 3"/>
+				<cheat code="BEBT-AADN" type="Game Genie" description="Player 1 starts with 9 lives"/>
+				<cheat code="BGXA-AADR" type="Game Genie" description="Both players continue with 9 lives"/><cheat code="AJFT-AA30" type="Game Genie" description="Infinite Magic"/><cheat code="ATMT-AS5T" type="Game Genie" description="Almost Invincible"/>
+			</cheats>
+		</game><game title="Streets of Rage">
+			<hashes>
+				<hash md5="71157063b0e17ae1b70cacffa23d2d3c"/>
+			</hashes>
+			<cheats>
+				<cheat code="AT4A-AA48" type="Game Genie" description="Infinite Fighters For Both Players"/>
+				<cheat code="RFAA-A6VR" type="Game Genie" description="Infinite Special Attacks For Both Players"/>
+				<cheat code="AJ4T-AA34" type="Game Genie" description="Infinite Life On Life Gauge (Both Players)"/>
+				<cheat code="M2GA-CA6W" type="Game Genie" description="Infinite Time"/>
+				<cheat code="DCZT-AA2G" type="Game Genie" description="Almost Invincible"/><cheat code="BEMT-BA7W" type="Game Genie" description="Both Players Start With 9 Fighters"/><cheat code="BFMA-BA6E" type="Game Genie" description="Both Players Continue With 9 Fighters"/>
+			</cheats>
+		</game><game title="Altered Beast">
+			<hashes>
+				<hash md5="821283d49863f00357bf1d49664c0ebd"/>
+			</hashes>
+			<cheats>
+				<cheat code="DCXA-AA22" type="Game Genie" description="MASTER CODE--MUST BE ENTERED"/>
+				<cheat code="FT1T-AA5L" type="Game Genie" description="Infinite lives"/>
+				<cheat code="BWXA-ALCT" type="Game Genie" description="Start with 5 lives"/>
+				<cheat code="PA5T-BNT2" type="Game Genie" description="First spirit ball transforms you into"/>
+				<cheat code="HTWT-B6KG" type="Game Genie" description="Makes most enemies easier to defeat"/>
+			</cheats>
+		</game><game title="Streets of Rage 2">
+			<hashes>
+				<hash md5="9990f905f754f719ca5804478e30bc46"/>
+			</hashes>
+			<cheats>
+				<cheat code="LB0A-BEB6" type="Game Genie" description="Player 1 starts with 9 lives"/>
+				<cheat code="AW7T-AA6L" type="Game Genie" description="Infinite lives--both players"/>
+				<cheat code="PBFA-AAG6" type="Game Genie" description="Apple pick-up restores all energy"/>
+				<cheat code="AL7T-AA62" type="Game Genie" description="Infinite continues--both players"/>
+				
+			</cheats>
+		</game><game title="Castle of Illusion">
+			<hashes>
+				<hash md5="4b851a1e5b68910f62c55a31b7fb9153"/>
+			</hashes>
+			<cheats>
+				<cheat code="EABT-AA3E" type="Game Genie" description="MASTER CODE--MUST BE ENTERED"/>
+				<cheat code="NNGA-AACJ + NRRA-AABJ" type="Game Genie" description="Maximum item capacity becomes 98"/>
+				<cheat code="SC6A-AY0L" type="Game Genie" description="Infinite items"/>
+				<cheat code="SCKA-AY1Y" type="Game Genie" description="Invincibility"/>
+				
+			</cheats>
+		</game><game title="Streets of Rage 3">
+			<hashes>
+				<hash md5="e1d2e2ac81e6c89d2b720b231ed0a4ea"/>
+			</hashes>
+			<cheats>
+				<cheat code="AXEA-AA4J" type="Game Genie" description="Infinite lives"/>
+				<cheat code="BE9A-DA4N" type="Game Genie" description="Start with 10 lives"/>
+				<cheat code="GTNA-DA7W" type="Game Genie" description="Apples heal to above the maximum amount"/>
+				<cheat code="AMEA-AA8L" type="Game Genie" description="Infinite continues"/>
+				
+			</cheats>
+		</game><game title="Golden Axe III">
+			<hashes>
+				<hash md5="9f33c0c8aab91e884e6a346d4b72859c"/>
+			</hashes>
+			<cheats>
+				<cheat code="AJHA-AA5Y" type="Game Genie" description="Infinite Energy"/>
+				<cheat code="AKYT-AA54" type="Game Genie" description="Infinite Lives"/>
+				<cheat code="AM5A-AA44" type="Game Genie" description="Infinite Magic"/>
+				
+				
+			</cheats>
+		</game><game title="Shinobi III">
+			<hashes>
+				<hash md5="691eeff9c5741724a8751ec0fa9cfbf0"/>
+			</hashes>
+			<cheats>
+				<cheat code="CJSA-EA7G" type="Game Genie" description="Infinite Energy"/>
+				<cheat code="AART-EAFW" type="Game Genie" description="Invincibility"/>
+				
+				
+				
+			</cheats>
+		</game><game title="Super Shinobi II ">
+			<hashes>
+				<hash md5="6ce59f3e7ee52dc8c6df7b4d8a166826"/>
+			</hashes>
+			<cheats>
+				<cheat code="AL3A-AA6A" type="Game Genie" description="Infinite Magic"/>
+				<cheat code="AWZT-AA96" type="Game Genie" description="INFINITE LIVES"/><cheat code="ATNA-EA7C" type="Game Genie" description="INFINITE ENERGY"/><cheat code="B55T-CA7E +  CAHT-EA40" type="Game Genie" description="INVINCIBILITY"/><cheat code="ATYA-EA8E" type="Game Genie" description="INFINITE NINJUTSU"/>
+				
+				
+				
+			</cheats>
 		</game>
 	</system>
 	<system id="openemu.system.sms">
