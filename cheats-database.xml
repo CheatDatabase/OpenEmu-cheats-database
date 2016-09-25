@@ -47,6 +47,18 @@
 </cheats>
 </game>
 
+<game title="Metroid - Fusion (U)(GBANow)">
+<hashes>
+<hash md5="af5040fc0f579800151ee2a683e2e5b5"/>
+</hashes>
+<cheats>
+<cheat code="3D0EED37E844DFD5" type="Action Replay" description="Infinite Health"/>
+<cheat code="5E02F586E9A0F0F1" type="Action Replay" description="Infinite Missles"/>
+<cheat code="B09E0E6B0D61F63C" type="GameShark" description="Invincible"/>
+<cheat code="F4714BE89AA45931+F9263345CBF8D565" type="GameShark" description="Super Jump"/>
+</cheats>
+</game>
+
 </system>
 
 <!-- Sega Game Gear -->
