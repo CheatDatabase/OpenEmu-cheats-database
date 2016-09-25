@@ -48,15 +48,28 @@
 </game>
 
 <game title="Metroid - Fusion (U)(GBANow)">
-<hashes>
-<hash md5="af5040fc0f579800151ee2a683e2e5b5"/>
-</hashes>
-<cheats>
-<cheat code="B99F5C68287E7B55" type="Action Replay" description="Infinite Maximum Health"/>
-<cheat code="86C1A619E48FFEE4+C9DD101836B40DF8" type="Action Replay" description="Moon Jump"/>
-<cheat code="DCD5A90F6F8F63F2" type="Action Replay" description="Infinite Maximum Missiles"/>
-<cheat code="9922F0AC5E5E9DFE" type="Action Replay" description="Invulnerable"/>
-</cheats>
+    <hashes>
+        <hash md5="eb462f708c715309d08fd7968825ae9e"/>
+        <hash md5="af5040fc0f579800151ee2a683e2e5b5"/>
+    </hashes>
+    <cheats>
+        <cheat code="83001310 0833" type="GameShark" description="Infinite Maximum Health"/>
+        <cheat code="74000130 03FE + 83001260 0040" type="GameShark" description="Moon Jump"/>
+        <cheat code="83001314 03E7" type="GameShark" description="Infinite Maximum Missiles"/>
+        <cheat code="33001249 0001" type="GameShark" description="Invulnerable"/>
+    </cheats>
+</game>
+
+<game title="1865 - Legend of Zelda, The - The Minish Cap (U)">
+    <hashes>
+        <hash md5="a104896da0047abe8bee2a6e3f4c7290"/>
+    </hashes>
+    <cheats>
+        <cheat code="32002AEA 0050" type="GameShark" description="Infinite Energy"/>
+        <cheat code="32002AEC 0063" type="GameShark" description="Infinite Bombs"/>
+        <cheat code="32002AED 0063" type="GameShark" description="Infinite Arrows"/>
+        <cheat code="82002B00 03E7" type="GameShark" description="Infinite Rupees"/>
+    </cheats>
 </game>
 
 </system>
