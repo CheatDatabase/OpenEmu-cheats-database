@@ -97,43 +97,49 @@
 			</cheats>
 		</game>
 	</system>
-	<system id="openemu.system.nes">
-		<game title="1942">
-			<hashes>
-				<hash md5="12228da19c67d56b49c4b77828761700"/>
-			</hashes>
-			<cheats>
-				<cheat code="PASIOALE" type="Game Genie" description="Both players start with 9 rolls"/>
-				<cheat code="IESUTYZA" type="Game Genie" description="Start with 6 lives, 1-player game only"/>
-				<cheat code="AESUTYZE" type="Game Genie" description="Start with 9 lives, 1-player game only"/>
-				<cheat code="IAKUUAZA" type="Game Genie" description="After continue, player 1 has 6 lives in 2-player game"/>
-				<cheat code="AAKUUAZE" type="Game Genie" description="After continue, player 1 has 9 lives in 2-player game"/>
-				<cheat code="IASUOAZA" type="Game Genie" description="Player 2 has 6 lives in 2-player game"/>
-				<cheat code="AASUOAZE" type="Game Genie" description="Player 2 has 9 lives in 2-player game"/>
-			</cheats>
-		</game><game title="Bad Dudes (USA)">
-			<hashes>
-				<hash md5="e5f71b547f6a8c6166c55b1baa7d21c5"/>
-			</hashes>
-			<cheats>
-				<cheat code="AVSOYOSZ+ELEAPOZE+AIEAZPAP" type="Game Genie" description="Invincibility"/>
-				<cheat code="APEETPEY" type="Game Genie" description="Infinite health"/>
-				<cheat code="SZOEAOSE" type="Game Genie" description="Infinite health (alt)"/>
-				<cheat code="SZNKASVK" type="Game Genie" description="Infinite lives"/>
-				<cheat code="GXOKASVK" type="Game Genie" description="Infinite continues"/>
-				<cheat code="SGVYOUVK" type="Game Genie" description="Infinite time"/>
-				<cheat code="AAUPIOGI" type="Game Genie" description="Hit anywhere"/>
-				<cheat code="AOUSNGEY" type="Game Genie" description="One hit kills"/>
-				<cheat code="PENXYZLA" type="Game Genie" description="Start with 1 life and 1 continue"/>
-				<cheat code="TENXYZLA" type="Game Genie" description="Start with double lives and continues"/>
-				<cheat code="PENXYZLE" type="Game Genie" description="Start with triple lives and continues"/>
-				<cheat code="PESAIYIE" type="Game Genie" description="Gain double usual energy from drinks"/>
-				<cheat code="02A2:01" type="Action Replay" description="Have the Nunchaku"/>
-				<cheat code="02A2:02" type="Action Replay" description="Have the Knife"/>
-				<cheat code="032F:00+0344:00" type="Action Replay" description="One hit kills on bosses"/>
-			</cheats>
-		</game>
-		<game title="Contra">
+
+<!-- Nintendo Entertainment System -->
+<system id="openemu.system.nes">
+
+<game title="1942">
+<hashes>
+<hash md5="12228da19c67d56b49c4b77828761700"/>
+</hashes>
+<cheats>
+<cheat code="PASIOALE" type="Game Genie" description="Both players start with 9 rolls"/>
+<cheat code="IESUTYZA" type="Game Genie" description="Start with 6 lives, 1-player game only"/>
+<cheat code="AESUTYZE" type="Game Genie" description="Start with 9 lives, 1-player game only"/>
+<cheat code="IAKUUAZA" type="Game Genie" description="After continue, player 1 has 6 lives in 2-player game"/>
+<cheat code="AAKUUAZE" type="Game Genie" description="After continue, player 1 has 9 lives in 2-player game"/>
+<cheat code="IASUOAZA" type="Game Genie" description="Player 2 has 6 lives in 2-player game"/>
+<cheat code="AASUOAZE" type="Game Genie" description="Player 2 has 9 lives in 2-player game"/>
+</cheats>
+</game>
+
+<game title="Bad Dudes (USA)">
+<hashes>
+<hash md5="e5f71b547f6a8c6166c55b1baa7d21c5"/>
+</hashes>
+<cheats>
+<cheat code="AVSOYOSZ+ELEAPOZE+AIEAZPAP" type="Game Genie" description="Invincibility"/>
+<cheat code="APEETPEY" type="Game Genie" description="Infinite health"/>
+<cheat code="SZOEAOSE" type="Game Genie" description="Infinite health (alt)"/>
+<cheat code="SZNKASVK" type="Game Genie" description="Infinite lives"/>
+<cheat code="GXOKASVK" type="Game Genie" description="Infinite continues"/>
+<cheat code="SGVYOUVK" type="Game Genie" description="Infinite time"/>
+<cheat code="AAUPIOGI" type="Game Genie" description="Hit anywhere"/>
+<cheat code="AOUSNGEY" type="Game Genie" description="One hit kills"/>
+<cheat code="PENXYZLA" type="Game Genie" description="Start with 1 life and 1 continue"/>
+<cheat code="TENXYZLA" type="Game Genie" description="Start with double lives and continues"/>
+<cheat code="PENXYZLE" type="Game Genie" description="Start with triple lives and continues"/>
+<cheat code="PESAIYIE" type="Game Genie" description="Gain double usual energy from drinks"/>
+<cheat code="02A2:01" type="Action Replay" description="Have the Nunchaku"/>
+<cheat code="02A2:02" type="Action Replay" description="Have the Knife"/>
+<cheat code="032F:00+0344:00" type="Action Replay" description="One hit kills on bosses"/>
+</cheats>
+</game>
+
+<game title="Contra">
 			<hashes>
 				<hash md5="7bdad8b4a7a56a634c9649d20bd3011b"/>
 			</hashes>
