@@ -1,44 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <systems>
-	<system id="openemu.system.gb">
-		<game title="Pokemon - Crystal Version (USA, Europe)">
-			<hashes>
-				<hash md5="9f2922b235a5eeb78d65594e82ef5dde"/>
-				<hash md5="301899b8087289a6436b0a241fbbb474"/>
-			</hashes>
-			<cheats>
-				<cheat code="010F4ED8+01424FD8+013F50D8" type="GameShark" description="Infinite money"/>
-			</cheats>
-		</game>
-		<game title="Super Mario Bros. Deluxe (USA, Europe)">
-			<hashes>
-				<hash md5="ec764e03228d212ca794ac0b9df62857"/>
-				<hash md5="1fd75c2b798c04acd4b99ad2f1006280"/>
-				<hash md5="b5a71128227f5bc953fd55cb0025807f"/>
-			</hashes>
-			<cheats>
-				<cheat code="0101CEC1" type="GameShark" description="Always Have Fire Power"/>
-			</cheats>
-		</game>
-	</system>
-	<system id="openemu.system.gba">
-		<game title="Super Mario Advance (USA, Europe)">
-			<hashes>
-				<hash md5="ff6b0c48065389b888c7a78731d4b58d"/>
-			</hashes>
-			<cheats>
-				<cheat code="42D8DCB716E09D2C" type="Action Replay" description="Max Hearts"/>
-				<cheat code="ADF2A0EE94504FB2" type="Action Replay" description="Always Big Mario"/>
-				<cheat code="CD93194F089CE0B4" type="GameShark" description="Always Invincible"/>
-				<cheat code="029326227E30E217" type="GameShark" description="Infinite Float"/>
-				<cheat code="46B6AAC300BA6B6C" type="GameShark" description="Invincible/Walk Thru Enemies"/>
-				<cheat code="9005744C362C+034BBC9BD418+F5AC01A7E2B9" type="GameShark" description="Master Code (Must Be On)"/>
-				<cheat code="A62B1D67EB2D" type="GameShark" description="Infinite Health"/>
-				<cheat code="712E29965C2A+DD96A6BE81CB" type="GameShark" description="Moon Jump"/>
-			</cheats>
-		</game>
-	</system>
-	<system id="openemu.system.gg">
+
+<system id="openemu.system.gb">
+
+<game title="Pokemon - Crystal Version (USA, Europe)">
+<hashes>
+<hash md5="9f2922b235a5eeb78d65594e82ef5dde"/>
+<hash md5="301899b8087289a6436b0a241fbbb474"/>
+</hashes>
+<cheats>
+<cheat code="010F4ED8+01424FD8+013F50D8" type="GameShark" description="Infinite money"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. Deluxe (USA, Europe)">
+<hashes>
+<hash md5="ec764e03228d212ca794ac0b9df62857"/>
+<hash md5="1fd75c2b798c04acd4b99ad2f1006280"/>
+<hash md5="b5a71128227f5bc953fd55cb0025807f"/>
+</hashes>
+<cheats>
+<cheat code="0101CEC1" type="GameShark" description="Always Have Fire Power"/>
+</cheats>
+</game>
+
+</system>
+
+
+<system id="openemu.system.gba">
+
+<game title="Super Mario Advance (USA, Europe)">
+<hashes>
+<hash md5="ff6b0c48065389b888c7a78731d4b58d"/>
+</hashes>
+<cheats>
+<cheat code="42D8DCB716E09D2C" type="Action Replay" description="Max Hearts"/>
+<cheat code="ADF2A0EE94504FB2" type="Action Replay" description="Always Big Mario"/>
+<cheat code="CD93194F089CE0B4" type="GameShark" description="Always Invincible"/>
+<cheat code="029326227E30E217" type="GameShark" description="Infinite Float"/>
+<cheat code="46B6AAC300BA6B6C" type="GameShark" description="Invincible/Walk Thru Enemies"/>
+<cheat code="9005744C362C+034BBC9BD418+F5AC01A7E2B9" type="GameShark" description="Master Code (Must Be On)"/>
+<cheat code="A62B1D67EB2D" type="GameShark" description="Infinite Health"/>
+<cheat code="712E29965C2A+DD96A6BE81CB" type="GameShark" description="Moon Jump"/>
+</cheats>
+</game>
+
+</system>
+
+<system id="openemu.system.gg">
 		<game title="Sonic The Hedgehog - Triple Trouble (USA, Europe)">
 			<hashes>
 				<hash md5="f0f7e4dfe2908f0030e64fd9ed843422"/>
