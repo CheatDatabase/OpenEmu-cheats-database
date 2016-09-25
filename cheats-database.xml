@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <systems>
 
-<!-- Game Boy -->
+<!-- Gameboy -->
 <system id="openemu.system.gb">
 
 <game title="Pokemon - Crystal Version (USA, Europe)">
@@ -28,7 +28,7 @@
 </system>
 
 
-<!-- Game Boy Advance -->
+<!-- Gameboy Advance -->
 <system id="openemu.system.gba">
 
 <game title="Super Mario Advance (USA, Europe)">
