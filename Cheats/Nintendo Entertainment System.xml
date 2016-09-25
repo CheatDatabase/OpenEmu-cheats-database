@@ -1,1 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systems>
 
+<!-- Nintendo Entertainment System -->
+<system id="openemu.system.nes">
+
+<game title="1942">
+<hashes>
+<hash md5="12228da19c67d56b49c4b77828761700"/>
+</hashes>
+<cheats>
+<cheat code="PASIOALE" type="Game Genie" description="Both players start with 9 rolls"/>
+<cheat code="IESUTYZA" type="Game Genie" description="Start with 6 lives, 1-player game only"/>
+<cheat code="AESUTYZE" type="Game Genie" description="Start with 9 lives, 1-player game only"/>
+<cheat code="IAKUUAZA" type="Game Genie" description="After continue, player 1 has 6 lives in 2-player game"/>
+<cheat code="AAKUUAZE" type="Game Genie" description="After continue, player 1 has 9 lives in 2-player game"/>
+<cheat code="IASUOAZA" type="Game Genie" description="Player 2 has 6 lives in 2-player game"/>
+<cheat code="AASUOAZE" type="Game Genie" description="Player 2 has 9 lives in 2-player game"/>
+</cheats>
+</game>
+
+<game title="Bad Dudes (USA)">
+<hashes>
+<hash md5="e5f71b547f6a8c6166c55b1baa7d21c5"/>
+</hashes>
+<cheats>
+<cheat code="AVSOYOSZ+ELEAPOZE+AIEAZPAP" type="Game Genie" description="Invincibility"/>
+<cheat code="APEETPEY" type="Game Genie" description="Infinite health"/>
+<cheat code="SZOEAOSE" type="Game Genie" description="Infinite health (alt)"/>
+<cheat code="SZNKASVK" type="Game Genie" description="Infinite lives"/>
+<cheat code="GXOKASVK" type="Game Genie" description="Infinite continues"/>
+<cheat code="SGVYOUVK" type="Game Genie" description="Infinite time"/>
+<cheat code="AAUPIOGI" type="Game Genie" description="Hit anywhere"/>
+<cheat code="AOUSNGEY" type="Game Genie" description="One hit kills"/>
+<cheat code="PENXYZLA" type="Game Genie" description="Start with 1 life and 1 continue"/>
+<cheat code="TENXYZLA" type="Game Genie" description="Start with double lives and continues"/>
+<cheat code="PENXYZLE" type="Game Genie" description="Start with triple lives and continues"/>
+<cheat code="PESAIYIE" type="Game Genie" description="Gain double usual energy from drinks"/>
+<cheat code="02A2:01" type="Action Replay" description="Have the Nunchaku"/>
+<cheat code="02A2:02" type="Action Replay" description="Have the Knife"/>
+<cheat code="032F:00+0344:00" type="Action Replay" description="One hit kills on bosses"/>
+</cheats>
+</game>
+
+<game title="Contra">
+<hashes>
+<hash md5="7bdad8b4a7a56a634c9649d20bd3011b"/>
+</hashes>
+<cheats>
+<cheat code="SLAIUZ" type="Game Genie" description="Start with infinite lives"/>
+<cheat code="GXIIUX" type="Game Genie" description="Keep weapons after losing a life"/>
+<cheat code="SLTIYG" type="Game Genie" description="Become invincible-- enemies don't shoot at you"/>
+<cheat code="PEIIXZ" type="Game Genie" description="Start new life with machine gun"/>
+<cheat code="ZEIIXZ" type="Game Genie" description="Start new life with flame-thrower"/>
+<cheat code="LEIIXZ" type="Game Genie" description="Start new life with spread gun"/>
+<cheat code="GEIIXZ" type="Game Genie" description="Start new life with laser"/>
+</cheats>
+</game>
+
+<game title="Excitebike">
+<hashes>
+<hash md5="d7fe15cf2bc7b6582c07d12b3cf3bede"/>
+</hashes>
+<cheats>
+<cheat code="SXXTYUVV" type="Game Genie" description="Never overheat"/>
+<cheat code="YEXIKOYA" type="Game Genie" description="Recover fast after crashes"/>
+<cheat code="PEXIEZLA" type="Game Genie" description="Reduced enemy bikes in game B"/>
+<cheat code="AAUSEYAO" type="Game Genie" description="Timer runs at half speed"/>
+<cheat code="GAUSEYAP" type="Game Genie" description="Timer runs at quarter speed"/>
+<cheat code="ENUKGEAP + GESGPALA" type="Game Genie" description="Turbo speed on 'A' button"/>
+<cheat code="EVUKGEAP + TESGPALA" type="Game Genie" description="Mega turbo speed on 'A' button"/>
+</cheats>
+</game>
+
+<game title="Ice Climber">
+<hashes>
+<hash md5="d35f9979f206897df94fb5425e23fc85"/>
+</hashes>
+<cheats>
+<cheat code="OKEIPGVS" type="Game Genie" description="Infinite lives"/>
+<cheat code="ATKSALAZ" type="Game Genie" description="Become invincible"/>
+<cheat code="AEXKTGLA" type="Game Genie" description="Start with 1 life"/>
+<cheat code="IEXKTGLA" type="Game Genie" description="Start with 6 lives"/>
+<cheat code="AEXKTGLE" type="Game Genie" description="Start with 9 lives"/>
+<cheat code="GPUKOAZX" type="Game Genie" description="Super jumping power"/>
+<cheat code="ELKITLEY" type="Game Genie" description="Monsters bump you instead of killing you"/>
+<cheat code="VNSKXUNN + ZESKULPA" type="Game Genie" description="Players double speed"/>
+<cheat code="SNSKXUNN + LESKULPA" type="Game Genie" description="Players triple speed"/>
+</cheats>
+</game>
+
+<game title="Legend of Zelda, The (USA)">
+<hashes>
+<hash md5="337bd6f1a1163df31bf2633665589ab0"/>
+</hashes>
+<cheats>
+<cheat code="AVVLAUSZ" type="Game Genie" description="Don't take damage from anything"/>
+<cheat code="YYKPOYZZ" type="Game Genie" description="Create character with 8 life hearts"/>
+<cheat code="NYKPOYZX" type="Game Genie" description="Create character with 16 life hearts"/>
+<cheat code="SZVXASVK" type="Game Genie" description="Don't lose rubies when buying"/>
+<cheat code="SZNZVOVK" type="Game Genie" description="Infinite bombs"/>
+<cheat code="ESKUILTA" type="Game Genie" description="Wear a blue ring"/>
+<cheat code="OSKUILTA" type="Game Genie" description="Wear a red ring"/>
+<cheat code="SZVXASVK + AEVEVALG" type="Game Genie" description="All items for free"/>
+</cheats>
+</game>
+
+<game title="Megaman 2">
+<hashes>
+<hash md5="caaeb9ee3b52839de261fd16f93103e6"/>
+</hashes>
+<cheats>
+<cheat code="SXUGTPVG" type="Game Genie" description="Infinite lives"/>
+<cheat code="SXXTPSSE" type="Game Genie" description="Infinite energy"/>
+<cheat code="GZKEYLAL" type="Game Genie" description="Maximum weapon energy on pick-up"/>
+</cheats>
+</game>
+
+<game title="Punch-Out!!">
+<hashes>
+<hash md5="3e4af91097aece830b3039af3f2c0802"/>
+</hashes>
+<cheats>
+<cheat code="ATEALIXZ" type="Game Genie" description="Infinite Health"/>
+<cheat code="GZKETGST" type="Game Genie" description="Never Lose Hearts"/>
+<cheat code="ALNEVPEY" type="Game Genie" description="Never Lose Stars"/>
+<cheat code="AAVETLGA" type="Game Genie" description="Normal Punches Do More Damage"/>
+<cheat code="SZVALPAX" type="Game Genie" description="Take Even Less Damage"/>
+<cheat code="KVKAAGLA" type="Game Genie" description="Refill Stamina Between Rounds"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 1">
+<hashes>
+<hash md5="811b027eaf99c2def7b933c5208636de"/>
+</hashes>
+<cheats>
+<cheat code="SXIOPO" type="Game Genie" description="Infinite lives for both players"/>
+<cheat code="OZTLLX + AATLGZ + SZLIVO" type="Game Genie" description="Always stay big"/>
+<cheat code="AATOZE" type="Game Genie" description="Start players 1 and 2 with 9 lives"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 2">
+<hashes>
+<hash md5="25b7e8471ae58316593e58205fa16803"/>
+</hashes>
+<cheats>
+<cheat code="SZNESXVK" type="Game Genie" description="Infinite lives"/>
+<cheat code="SXUASXOU" type="Game Genie" description="Quick pick up"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 3">
+<hashes>
+<hash md5="86d1982fea7342c0af9679ddf3869d8d"/>
+</hashes>
+<cheats>
+<cheat code="SLXPLOVS" type="Game Genie" description="Infinite lives for Mario and Luigi"/>
+<cheat code="SZKIKXSE" type="Game Genie" description="Invincibility after changing up from Super Mario"/>
+</cheats>
+</game>
+
+<game title="Zelda II - The Adventure of Link">
+<hashes>
+<hash md5="764d36fa8a2450834da5e8194281035a"/>
+</hashes>
+<cheats>
+<cheat code="SZKGKXVK" type="Game Genie" description="Infinite Lives"/>
+</cheats>
+</game>
+		
+</system>
+
+</systems>
