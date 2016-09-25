@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systems>
 
+<!-- Sega Game Gear -->
+<system id="openemu.system.gg">
+
+<game title="Sonic The Hedgehog - Triple Trouble (USA, Europe)">
+<hashes>
+<hash md5="f0f7e4dfe2908f0030e64fd9ed843422"/>
+</hashes>
+<cheats>
+<cheat code="00D1-4009" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00D1-5998" type="Action Replay" description="Infinite Rings"/>
+<cheat code="00D1-5D00" type="Action Replay" description="Infinite Time"/>
+<cheat code="00D3-C280" type="Action Replay" description="Invincible"/>
+</cheats>
+</game>
+
+</system>
+
+</systems>
