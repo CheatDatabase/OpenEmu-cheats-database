@@ -25,23 +25,6 @@
 </cheats>
 </game>
 
-<game title="Wonder Boy 3 - The Dragon's Trap">
-<hashes>
-<hash md5="e7f86c049e4bd8b26844ff62bd067d57"/>
-</hashes>
-<cheats>
-<cheat code="00CF-3E99" type="Action Replay" description="Infinite &quot;Fire Ball&quot; Blocks"/>
-<cheat code="00CF-52FF" type="Action Replay" description="Infinite Health"/>
-<cheat code="00CF-4A09" type="Action Replay" description="Infinite Blue Potions"/>
-<cheat code="00CF-5308" type="Action Replay" description="Invincibility"/>
-<cheat code="00C2-4F01" type="Action Replay" description="Start As Lizard-Man"/>
-<cheat code="00C2-4F02" type="Action Replay" description="Start As Mouse-Man"/>
-<cheat code="00C2-4F03" type="Action Replay" description="Start As Piranha-Man"/>
-<cheat code="00C2-4F04" type="Action Replay" description="Start As Lion-Man"/>
-<cheat code="00C2-4F05" type="Action Replay" description="Start As Hawk-Man"/>
-</cheats>
-</game>
-
 </system>
 
 </systems>
