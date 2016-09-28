@@ -513,6 +513,17 @@
 </cheats>
 </game>
 
+<game title="Kenseiden (USA, Europe)">
+<hashes>
+<hash md5="6ae8f011701608ae8b765a26eb0b7ce1"/>
+</hashes>
+<cheats>
+<cheat code="00C1-1114" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C0-9009" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C1-1E1B" type="Action Replay" description="Invulnerability"/>
+</cheats>
+</game>
+
 <game title="Wonder Boy (USA, Europe)">
 <hashes>
 <hash md5="7e805aa51bfb5f206c950a32ebcdab7c"/>
