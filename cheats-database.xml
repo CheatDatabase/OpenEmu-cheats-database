@@ -513,6 +513,20 @@
 </cheats>
 </game>
 
+<game title="Cloud Master (USA, Europe)">
+<hashes>
+<hash md5="4498afc1fce51ebd461798fbe61aa6f8"/>
+</hashes>
+<cheats>
+<cheat code="00C4-C909" type="Action Replay" description="FAKE Infinite Lives"/>
+<cheat code="00C4-E009" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C4-C703" type="Action Replay" description="Invincibility"/>
+<cheat code="00C4-C307" type="Action Replay" description="Maximum Firepower"/>
+<cheat code="00C4-C405" type="Action Replay" description="Maximum Speed"/>
+<cheat code="00C4-C503" type="Action Replay" description="3-Way Special Magic (Button 2)"/>
+</cheats>
+</game>
+
 <game title="Kenseiden (USA, Europe)">
 <hashes>
 <hash md5="6ae8f011701608ae8b765a26eb0b7ce1"/>
