@@ -513,6 +513,21 @@
 </cheats>
 </game>
 
+<game title="Wonder Boy (USA, Europe)">
+<hashes>
+<hash md5="7e805aa51bfb5f206c950a32ebcdab7c"/>
+</hashes>
+<cheats>
+<cheat code="00C1-4309" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C1-7013" type="Action Replay" description="Freeze Wonder Boy's Jogging Animation"/>
+<cheat code="00CC-3611" type="Action Replay" description="Infinite Red/Yellow Bar"/>
+<cheat code="00C1-2703" type="Action Replay" description="Invincibility + Stone Hammers"/>
+<cheat code="00C1-2701" type="Action Replay" description="Start With Stone Hammers"/>
+<cheat code="00C1-3028" type="Action Replay" description="40 Dolls"/>
+<cheat code="00C1-73FF" type="Action Replay" description="Rapid Fire On Controller Buttons"/>
+</cheats>
+</game>
+	
 <game title="Wonder Boy 3 - The Dragon's Trap">
 <hashes>
 <hash md5="e7f86c049e4bd8b26844ff62bd067d57"/>
