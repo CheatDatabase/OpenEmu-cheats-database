@@ -524,6 +524,18 @@
 </cheats>
 </game>
 
+<game title="Rastan (USA, Europe)">
+<hashes>
+<hash md5="5b3a785de403c311db7f17eae27caae6"/>
+</hashes>
+<cheats>
+<cheat code="00C0-2064" type="Action Replay" description="Infinite Life"/>
+<cheat code="00C0-1703" type="Action Replay" description="Invincibility"/>
+<cheat code="00C1-4A15" type="Action Replay" description="Start On Final Level"/>
+<cheat code="00C0-01FF" type="Action Replay" description="Have All Items"/>
+</cheats>
+</game>
+
 <game title="Wonder Boy (USA, Europe)">
 <hashes>
 <hash md5="7e805aa51bfb5f206c950a32ebcdab7c"/>
