@@ -538,6 +538,22 @@
 </cheats>
 </game>
 
+<game title="R-Type (World)">
+<hashes>
+<hash md5="9e5507d51ac6f24c702a52a7abce0d3c"/>
+</hashes>
+<cheats>
+<cheat code="00CC-0409" type="Action Replay" description="Infinite Credits (Continues)"/>
+<cheat code="00CE-0103" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00CE-D8FF" type="Action Replay" description="Invincibility (Flashing)"/>
+<cheat code="00CE-0B01" type="Action Replay" description="Always Have Missiles"/>
+<cheat code="00CE-0206" type="Action Replay" description="Speed Modifier"/>
+<cheat code="00CE-0400" type="Action Replay" description="Always Have Weapon Reflective Laser"/>
+<cheat code="00CE-0401" type="Action Replay" description="Always Have Weapon Ring Laser"/>
+<cheat code="00CE-0402" type="Action Replay" description="Always Have Weapon Ground Fire" />
+</cheats>
+</game>
+
 <game title="Rastan (USA, Europe)">
 <hashes>
 <hash md5="5b3a785de403c311db7f17eae27caae6"/>
