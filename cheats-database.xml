@@ -527,7 +527,31 @@
 <cheat code="00C1-73FF" type="Action Replay" description="Rapid Fire On Controller Buttons"/>
 </cheats>
 </game>
-	
+
+<game title="Wonder Boy in Monster Land (USA, Europe)">
+<hashes>
+<hash md5="8f8aaac492de96f2cfddb9d1a57dd979"/>
+</hashes>
+<cheats>
+<cheat code="00C0-B999" type="Action Replay" description="Always Have 99 Gold"/>
+<cheat code="00C0-BC14" type="Action Replay" description="Invincibility"/>
+<cheat code="00C1-AB04" type="Action Replay" description="Infinite Revival Potions"/>
+<cheat code="00C1-C301" type="Action Replay" description="Mega Jumps"/>
+<cheat code="00C0-BA44" type="Action Replay" description="Infinite Money"/>
+<cheat code="00C2-5400" type="Action Replay" description="Start With The Sword"/>
+<cheat code="00C1-A102" type="Action Replay" description="Start With The Shield"/>
+<cheat code="00C1-A302" type="Action Replay" description="Start With The Gauntlet"/>
+<cheat code="00C1-A502" type="Action Replay" description="Start With The Helmet"/>
+<cheat code="00C1-A702" type="Action Replay" description="Start With The Wing Boots"/>
+<cheat code="00C1-BF03" type="Action Replay" description="Start With The Key"/>
+<cheat code="00C1-A204" type="Action Replay" description="Legendary Sword (When You Pick Up 1st Sword)"/>
+<cheat code="00C1-A005" type="Action Replay" description="Legendary Armor"/>
+<cheat code="00C1-EC05" type="Action Replay" description="Start With The Bell"/>
+<cheat code="00C1-C101" type="Action Replay" description="Wonderboy Is Invulnerable"/>
+<cheat code="00C0-BD0A" type="Action Replay" description="Wonderboy Starts With Maximum Hearts"/>
+</cheats>
+</game>
+
 <game title="Wonder Boy 3 - The Dragon's Trap">
 <hashes>
 <hash md5="e7f86c049e4bd8b26844ff62bd067d57"/>
