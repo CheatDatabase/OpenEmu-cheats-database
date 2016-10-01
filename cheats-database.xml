@@ -137,8 +137,9 @@
 <!-- Nintendo Entertainment System -->
 <system id="openemu.system.nes">
 
-<game title="1942">
+<game title="1942 (Japan, USA)">
 <hashes>
+<hash md5="4f90905fd77c1c9456bd5dfe1ceddc34"/>
 <hash md5="12228da19c67d56b49c4b77828761700"/>
 </hashes>
 <cheats>
@@ -175,7 +176,7 @@
 </cheats>
 </game>
 
-<game title="Contra">
+<game title="Contra (USA)">
 <hashes>
 <hash md5="7bdad8b4a7a56a634c9649d20bd3011b"/>
 </hashes>
@@ -190,7 +191,7 @@
 </cheats>
 </game>
 
-<game title="Excitebike">
+<game title="Excitebike (Japan, USA)">
 <hashes>
 <hash md5="d7fe15cf2bc7b6582c07d12b3cf3bede"/>
 </hashes>
@@ -205,7 +206,7 @@
 </cheats>
 </game>
 
-<game title="Ice Climber">
+<game title="Ice Climber (USA, Europe)">
 <hashes>
 <hash md5="d35f9979f206897df94fb5425e23fc85"/>
 </hashes>
@@ -225,6 +226,7 @@
 <game title="Legend of Zelda, The (USA)">
 <hashes>
 <hash md5="337bd6f1a1163df31bf2633665589ab0"/>
+<hash md5="f4095791987351be68674a9355b266bc"/>
 </hashes>
 <cheats>
 <cheat code="YYKPOYZZ" type="Game Genie" description="Create character with 8 life hearts"/>
@@ -244,8 +246,9 @@
 </cheats>
 </game>
 
-<game title="Megaman 2">
+<game title="Mega Man 2 (USA)">
 <hashes>
+<hash md5="8e4bc5b03ffbd4ef91400e92e50dd294"/>
 <hash md5="caaeb9ee3b52839de261fd16f93103e6"/>
 </hashes>
 <cheats>
@@ -255,7 +258,7 @@
 </cheats>
 </game>
 
-<game title="Punch-Out!!">
+<game title="Punch-Out!! (USA)">
 <hashes>
 <hash md5="3e4af91097aece830b3039af3f2c0802"/>
 </hashes>
