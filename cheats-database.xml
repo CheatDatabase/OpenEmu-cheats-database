@@ -339,7 +339,7 @@
 <!-- Sega Genesis -->
 <system id="openemu.system.sg">
 
-<game title="Altered Beast">
+<game title="Altered Beast (USA, Europe)">
 <hashes>
 <hash md5="821283d49863f00357bf1d49664c0ebd"/>
 <hash md5="2ed5293e46abe1e74edeb96da0e7a618"/>
@@ -353,8 +353,9 @@
 </cheats>
 </game>
 
-<game title="Castle of Illusion">
+<game title="Castle of Illusion Starring Mickey Mouse (USA, Europe)">
 <hashes>
+<hash md5="24863151abd5baf28c9386d49ffe3c09"/>
 <hash md5="4b851a1e5b68910f62c55a31b7fb9153"/>
 </hashes>
 <cheats>
@@ -365,8 +366,9 @@
 </cheats>
 </game>
 
-<game title="Golden Axe II">
+<game title="Golden Axe II (World)">
 <hashes>
+<hash md5="2cd3573172961fa52f622f14ccff4e1a"/>
 <hash md5="4dfe3aaafac7888c10801a3f312d0623"/>
 </hashes>
 <cheats>
@@ -380,8 +382,9 @@
 </cheats>
 </game>
 
-<game title="Golden Axe III">
+<game title="Golden Axe III (Japan)">
 <hashes>
+<hash md5="7d9f963c9c2e22b542516edd03ada6f6"/>
 <hash md5="9f33c0c8aab91e884e6a346d4b72859c"/>
 </hashes>
 <cheats>
@@ -394,6 +397,7 @@
 <game title="Rambo III (US, 1989)">
 <hashes>
 <hash md5="c319916ed0ee1ab9e4fbad35566a822c"/>
+<hash md5="d0140fde92f051cde0b986b854f28e99"/>
 </hashes>
 <cheats>
 <cheat code="CKET-AA44" type="Game Genie" description="Infinite lives during missions"/>
@@ -404,7 +408,7 @@
 </cheats>
 </game>
 
-<game title="Shinobi III">
+<game title="Shinobi III - Return of the Ninja Master (USA)">
 <hashes>
 <hash md5="691eeff9c5741724a8751ec0fa9cfbf0"/>
 </hashes>
@@ -454,8 +458,9 @@
 </cheats>
 </game>
 
-<game title="Streets of Rage 2">
+<game title="Streets of Rage 2 (USA)">
 <hashes>
+<hash md5="cb75d5a6919b61efe917bea5762c1cb7"/>
 <hash md5="9990f905f754f719ca5804478e30bc46"/>
 </hashes>
 <cheats>
@@ -466,8 +471,9 @@
 </cheats>
 </game>
 
-<game title="Streets of Rage 3">
+<game title="Streets of Rage 3 (USA)">
 <hashes>
+<hash md5="2d0b0c8f10edf76131708e874e8d1ee4"/>
 <hash md5="e1d2e2ac81e6c89d2b720b231ed0a4ea"/>
 </hashes>
 <cheats>
@@ -478,7 +484,7 @@
 </cheats>
 </game>
 
-<game title="Super Shinobi II ">
+<game title="Super Shinobi II, The (Japan)">
 <hashes>
 <hash md5="6ce59f3e7ee52dc8c6df7b4d8a166826"/>
 </hashes>
@@ -609,7 +615,7 @@
 </cheats>
 </game>
 
-<game title="Wonder Boy 3 - The Dragon's Trap">
+<game title="Wonder Boy III - The Dragon's Trap (USA, Europe)">
 <hashes>
 <hash md5="e7f86c049e4bd8b26844ff62bd067d57"/>
 </hashes>
