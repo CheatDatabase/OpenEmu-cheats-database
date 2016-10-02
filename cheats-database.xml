@@ -48,28 +48,28 @@
 </game>
 
 <game title="Metroid - Fusion (U)(GBANow)">
-    <hashes>
-        <hash md5="eb462f708c715309d08fd7968825ae9e"/>
-        <hash md5="af5040fc0f579800151ee2a683e2e5b5"/>
-    </hashes>
-    <cheats>
-        <cheat code="83001310 0833" type="GameShark" description="Infinite Maximum Health"/>
-        <cheat code="74000130 03FE + 83001260 0040" type="GameShark" description="Moon Jump"/>
-        <cheat code="83001314 03E7" type="GameShark" description="Infinite Maximum Missiles"/>
-        <cheat code="33001249 0001" type="GameShark" description="Invulnerable"/>
-    </cheats>
+<hashes>
+<hash md5="eb462f708c715309d08fd7968825ae9e"/>
+<hash md5="af5040fc0f579800151ee2a683e2e5b5"/>
+</hashes>
+<cheats>
+<cheat code="83001310 0833" type="GameShark" description="Infinite Maximum Health"/>
+<cheat code="74000130 03FE + 83001260 0040" type="GameShark" description="Moon Jump"/>
+<cheat code="83001314 03E7" type="GameShark" description="Infinite Maximum Missiles"/>
+<cheat code="33001249 0001" type="GameShark" description="Invulnerable"/>
+</cheats>
 </game>
 
 <game title="1865 - Legend of Zelda, The - The Minish Cap (U)">
-    <hashes>
-        <hash md5="a104896da0047abe8bee2a6e3f4c7290"/>
-    </hashes>
-    <cheats>
-        <cheat code="32002AEA 0050" type="GameShark" description="Infinite Energy"/>
-        <cheat code="32002AEC 0063" type="GameShark" description="Infinite Bombs"/>
-        <cheat code="32002AED 0063" type="GameShark" description="Infinite Arrows"/>
-        <cheat code="82002B00 03E7" type="GameShark" description="Infinite Rupees"/>
-    </cheats>
+<hashes>
+<hash md5="a104896da0047abe8bee2a6e3f4c7290"/>
+</hashes>
+<cheats>
+<cheat code="32002AEA 0050" type="GameShark" description="Infinite Energy"/>
+<cheat code="32002AEC 0063" type="GameShark" description="Infinite Bombs"/>
+<cheat code="32002AED 0063" type="GameShark" description="Infinite Arrows"/>
+<cheat code="82002B00 03E7" type="GameShark" description="Infinite Rupees"/>
+</cheats>
 </game>
 
 </system>
@@ -524,81 +524,81 @@
 </game>
 
 <game title="Alien Syndrome (USA, Europe)">
-    <hashes>
-        <hash md5="c352bd773dc9cd909a8c1707ccb54d40"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-5409" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-7B06" type="Action Replay" description="Unlimited Time"/>
-        <cheat code="00C0-7501" type="Action Replay" description="Need One Hostage To Open Exit"/>
-        <cheat code="00C8-ED01" type="Action Replay" description="Keep Flame Weapon"/>
-    </cheats>
+<hashes>
+<hash md5="c352bd773dc9cd909a8c1707ccb54d40"/>
+</hashes>
+<cheats>
+<cheat code="00C0-5409" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-7B06" type="Action Replay" description="Unlimited Time"/>
+<cheat code="00C0-7501" type="Action Replay" description="Need One Hostage To Open Exit"/>
+<cheat code="00C8-ED01" type="Action Replay" description="Keep Flame Weapon"/>
+</cheats>
 </game>
 
 <game title="Asterix (Europe) (En,Fr) (v1.1)">
-    <hashes>
-        <hash md5="6831e9afe139fedb13c81a54926b3c0d"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-9D09" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-A309" type="Action Replay" description="Infinite Time - Seconds Digits"/>
-        <cheat code="00C0-A299" type="Action Replay" description="Infinite Time - Seconds Digits"/>
-        <cheat code="00C0-9A03" type="Action Replay" description="Infinite Red Blocks (Hits)"/>
-        <cheat code="00C0-8B01" type="Action Replay" description="Bombs From The Start"/>
-        <cheat code="00C0-9F50" type="Action Replay" description="Bonus Stage After Every Level"/>
-        <cheat code="00C0-8C01" type="Action Replay" description="Have Key From Start"/>
-    </cheats>
+<hashes>
+<hash md5="6831e9afe139fedb13c81a54926b3c0d"/>
+</hashes>
+<cheats>
+<cheat code="00C0-9D09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-A309" type="Action Replay" description="Infinite Time - Seconds Digits"/>
+<cheat code="00C0-A299" type="Action Replay" description="Infinite Time - Seconds Digits"/>
+<cheat code="00C0-9A03" type="Action Replay" description="Infinite Red Blocks (Hits)"/>
+<cheat code="00C0-8B01" type="Action Replay" description="Bombs From The Start"/>
+<cheat code="00C0-9F50" type="Action Replay" description="Bonus Stage After Every Level"/>
+<cheat code="00C0-8C01" type="Action Replay" description="Have Key From Start"/>
+</cheats>
 </game>
 
 <game title="Batman Returns (Europe)">
-    <hashes>
-        <hash md5="215876a62d3ca48d28e98cd8a2c70a15"/>
-    </hashes>
-    <cheats>
-        <cheat code="00D2-9B99" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00D5-0340" type="Action Replay" description="Invincibility"/>
-        <cheat code="00D2-A5FF" type="Action Replay" description="Batarang Power FF"/>
-        <cheat code="00D2-A500" type="Action Replay" description="Batarang Power 00"/>
-        <cheat code="00D2-9800" type="Action Replay" description="Stage Select 0 Turn off BEFORE the end"/>
-        <cheat code="00D2-9801" type="Action Replay" description="Stage Select 1 Turn off BEFORE the end"/>
-        <cheat code="00D2-9802" type="Action Replay" description="Stage Select 2 Turn off BEFORE the end"/>
-        <cheat code="00D2-9803" type="Action Replay" description="Stage Select 3 Turn off BEFORE the end"/>
-        <cheat code="00D2-9804" type="Action Replay" description="Stage Select 4 Turn off BEFORE the end"/>
-    </cheats>
+<hashes>
+<hash md5="215876a62d3ca48d28e98cd8a2c70a15"/>
+</hashes>
+<cheats>
+<cheat code="00D2-9B99" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00D5-0340" type="Action Replay" description="Invincibility"/>
+<cheat code="00D2-A5FF" type="Action Replay" description="Batarang Power FF"/>
+<cheat code="00D2-A500" type="Action Replay" description="Batarang Power 00"/>
+<cheat code="00D2-9800" type="Action Replay" description="Stage Select 0 Turn off BEFORE the end"/>
+<cheat code="00D2-9801" type="Action Replay" description="Stage Select 1 Turn off BEFORE the end"/>
+<cheat code="00D2-9802" type="Action Replay" description="Stage Select 2 Turn off BEFORE the end"/>
+<cheat code="00D2-9803" type="Action Replay" description="Stage Select 3 Turn off BEFORE the end"/>
+<cheat code="00D2-9804" type="Action Replay" description="Stage Select 4 Turn off BEFORE the end"/>
+</cheats>
 </game>
 
 <game title="Bomber Raid (World)">
-    <hashes>
-        <hash md5="d1151de6ea0a2547f047ce31b22fe18f"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-4209" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C1-5309" type="Action Replay" description="Infinite Secondary Weapon"/>
-        <cheat code="00C1-5004" type="Action Replay" description="Always Have Max Speed"/>
-        <cheat code="00C1-5405" type="Action Replay" description="Always Invincible"/>
-        <cheat code="00C1-5525" type="Action Replay" description="Always Have Max Shot Power"/>
-        <cheat code="00C1-5900" type="Action Replay" description="Fighter Escort Firing Direction Rear Diagonal"/>
-        <cheat code="00C1-5901" type="Action Replay" description="Fighter Escort Firing Direction Rear"/>
-        <cheat code="00C1-5902" type="Action Replay" description="Fighter Escort Firing Direction Sideways"/>
-        <cheat code="00C1-5903" type="Action Replay" description="Fighter Escort Firing Direction Forward Diagonal"/>
-    </cheats>
+<hashes>
+<hash md5="d1151de6ea0a2547f047ce31b22fe18f"/>
+</hashes>
+<cheats>
+<cheat code="00C0-4209" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C1-5309" type="Action Replay" description="Infinite Secondary Weapon"/>
+<cheat code="00C1-5004" type="Action Replay" description="Always Have Max Speed"/>
+<cheat code="00C1-5405" type="Action Replay" description="Always Invincible"/>
+<cheat code="00C1-5525" type="Action Replay" description="Always Have Max Shot Power"/>
+<cheat code="00C1-5900" type="Action Replay" description="Fighter Escort Firing Direction Rear Diagonal"/>
+<cheat code="00C1-5901" type="Action Replay" description="Fighter Escort Firing Direction Rear"/>
+<cheat code="00C1-5902" type="Action Replay" description="Fighter Escort Firing Direction Sideways"/>
+<cheat code="00C1-5903" type="Action Replay" description="Fighter Escort Firing Direction Forward Diagonal"/>
+</cheats>
 </game>
 
 <game title="Captain Silver (USA)">
-    <hashes>
-        <hash md5="1dfaadbfe7d8019e73bd980fd4b819ea"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-2809" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-2B99" type="Action Replay" description="Infinite Time"/>
-        <cheat code="00C1-4001" type="Action Replay" description="Invincibility"/>
-        <cheat code="00C0-2A01" type="Action Replay" description="High Jump (Always Have Boots)"/>
-        <cheat code="00C1-4901" type="Action Replay" description="Start With Key"/>
-        <cheat code="00C0-2900" type="Action Replay" description="Have Shot Type Normal"/>
-        <cheat code="00C0-2901" type="Action Replay" description="Have Shot Type Single Star"/>
-        <cheat code="00C0-2902" type="Action Replay" description="Have Shot Type 3 Way Star"/>
-        <cheat code="00C0-2903" type="Action Replay" description="Have Shot Type 5 Way Star"/>
-    </cheats>
+<hashes>
+<hash md5="1dfaadbfe7d8019e73bd980fd4b819ea"/>
+</hashes>
+<cheats>
+<cheat code="00C0-2809" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-2B99" type="Action Replay" description="Infinite Time"/>
+<cheat code="00C1-4001" type="Action Replay" description="Invincibility"/>
+<cheat code="00C0-2A01" type="Action Replay" description="High Jump (Always Have Boots)"/>
+<cheat code="00C1-4901" type="Action Replay" description="Start With Key"/>
+<cheat code="00C0-2900" type="Action Replay" description="Have Shot Type Normal"/>
+<cheat code="00C0-2901" type="Action Replay" description="Have Shot Type Single Star"/>
+<cheat code="00C0-2902" type="Action Replay" description="Have Shot Type 3 Way Star"/>
+<cheat code="00C0-2903" type="Action Replay" description="Have Shot Type 5 Way Star"/>
+</cheats>
 </game>
 
 <game title="Cloud Master (USA, Europe)">
@@ -616,88 +616,87 @@
 </game>
 
 <game title="Cyborg Hunter (USA, Europe)">
-    <hashes>
-        <hash md5="ac90d79743cac1afcd7049f7b4e73bc4"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C2-1B21" type="Action Replay" description="Infinite Health"/>
-    </cheats>
+<hashes>
+<hash md5="ac90d79743cac1afcd7049f7b4e73bc4"/>
+</hashes>
+<cheats>
+<cheat code="00C2-1B21" type="Action Replay" description="Infinite Health"/>
+</cheats>
 </game>
 
 <game title="Danan - The Jungle Fighter (Europe)">
-    <hashes>
-        <hash md5="6b0fc60aa886c060bf1a16ea97b4f441"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C7-D0FF" type="Action Replay" description="Infinite Time"/>
-        <cheat code="00D4-38FF" type="Action Replay" description="Infinite/Max Health"/>
-    </cheats>
+<hashes>
+<hash md5="6b0fc60aa886c060bf1a16ea97b4f441"/>
+</hashes>
+<cheats>
+<cheat code="00C7-D0FF" type="Action Replay" description="Infinite Time"/>
+<cheat code="00D4-38FF" type="Action Replay" description="Infinite/Max Health"/>
+</cheats>
 </game>
 
 <game title="Double Dragon (World)">
-    <hashes>
-        <hash md5="e95fc0b0123a58056a9059c7f19d8298"/>
-    </hashes>
-    <cheats>
-        <cheat code="00CB-2B09" type="Action Replay" description="Infinite Lives P1"/>
-        <cheat code="00CB-2A55" type="Action Replay" description="Infinite Health P1"/>
-        <cheat code="00CB-6B09" type="Action Replay" description="Infinite Lives P2"/>
-        <cheat code="00CB-6A55" type="Action Replay" description="Infinite Energy P2"/>
-        <cheat code="00C1-1000" type="Action Replay" description="Level Select 1"/>
-        <cheat code="00C1-1001" type="Action Replay" description="Level Select 2"/>
-        <cheat code="00C1-1002" type="Action Replay" description="Level Select 3"/>
-        <cheat code="00C1-1003" type="Action Replay" description="Level Select 4"/>
-    </cheats>
+<hashes>
+<hash md5="e95fc0b0123a58056a9059c7f19d8298"/>
+</hashes>
+<cheats>
+<cheat code="00CB-2B09" type="Action Replay" description="Infinite Lives P1"/>
+<cheat code="00CB-2A55" type="Action Replay" description="Infinite Health P1"/>
+<cheat code="00CB-6B09" type="Action Replay" description="Infinite Lives P2"/>
+<cheat code="00CB-6A55" type="Action Replay" description="Infinite Energy P2"/>
+<cheat code="00C1-1000" type="Action Replay" description="Level Select 1"/>
+<cheat code="00C1-1001" type="Action Replay" description="Level Select 2"/>
+<cheat code="00C1-1002" type="Action Replay" description="Level Select 3"/>
+<cheat code="00C1-1003" type="Action Replay" description="Level Select 4"/>
+</cheats>
 </game>
 
 <game title="Double Hawk (Europe)">
-    <hashes>
-        <hash md5="3e6e6cb8729965fdfdbb422f066ad706"/>
-    </hashes>
-    <cheats>
-        <cheat code="00D4-C614" type="Action Replay" description="FAKE Infinite Health"/>
-        <cheat code="00C3-9803" type="Action Replay" description="Infinite Health/Hits"/>
-        <cheat code="00C3-960F" type="Action Replay" description="Infinite Bombs"/>
-        <cheat code="00C3-9732" type="Action Replay" description="Invincible"/>
-        <cheat code="00C3-9102" type="Action Replay" description="Always Have Speed Power-Up"/>
-        <cheat code="00C3-9200" type="Action Replay" description="Super Rapid Fire"/>
-        <cheat code="00C3-9300" type="Action Replay" description="Always Have Gun Power-Up Normal"/>
-        <cheat code="00C3-9301" type="Action Replay" description="Always Have Gun Power-Up Rapid Fire"/>
-        <cheat code="00C3-9302" type="Action Replay" description="Always Have Gun Power-Up Super Shot"/>
-    </cheats>
+<hashes>
+<hash md5="3e6e6cb8729965fdfdbb422f066ad706"/>
+</hashes>
+<cheats>
+<cheat code="00D4-C614" type="Action Replay" description="FAKE Infinite Health"/>
+<cheat code="00C3-9803" type="Action Replay" description="Infinite Health/Hits"/>
+<cheat code="00C3-960F" type="Action Replay" description="Infinite Bombs"/>
+<cheat code="00C3-9732" type="Action Replay" description="Invincible"/>
+<cheat code="00C3-9102" type="Action Replay" description="Always Have Speed Power-Up"/>
+<cheat code="00C3-9200" type="Action Replay" description="Super Rapid Fire"/>
+<cheat code="00C3-9300" type="Action Replay" description="Always Have Gun Power-Up Normal"/>
+<cheat code="00C3-9301" type="Action Replay" description="Always Have Gun Power-Up Rapid Fire"/>
+<cheat code="00C3-9302" type="Action Replay" description="Always Have Gun Power-Up Super Shot"/>
+</cheats>
 </game>
 
 <game title="Forgotten Worlds (Europe)">
-    <hashes>
-        <hash md5="68cc1711bb89921da1f215f323f3bb2d"/>
-    </hashes>
-    <cheats>
-        <cheat code="00CC-8C0F" type="Action Replay" description="Infinite Health"/>
-        <cheat code="00CD-50FF + 00CD-51FF" type="Action Replay" description="Infinite Zenny"/>
-        <cheat code="00CC-E001" type="Action Replay" description="Always Have Life Potion"/>
-        <cheat code="00CC-D101 + 00CC-D205" type="Action Replay" description="Always Have Armor"/>
-        <cheat code="00CC-9200 + 00CC-9300" type="Action Replay" description="Faster Rate of Fire"/>
-        <cheat code="00CC-8700" type="Action Replay" description="Always Have Flying Stone Super Slow"/>
-        <cheat code="00CC-8701" type="Action Replay" description="Always Have Flying Stone Normal"/>
-        <cheat code="00CC-8702" type="Action Replay" description="Always Have Flying Stone High Speed"/>
-        <cheat code="00CC-8703" type="Action Replay" description="Always Have Flying Stone Super High Speed"/>
-        <cheat code="00CC-9600" type="Action Replay" description="Always Have Satellite type V Cannon"/>
-        <cheat code="00CC-9601" type="Action Replay" description="Always Have Satellite type Missile"/>
-        <cheat code="00CC-9602" type="Action Replay" description="Always Have Satellite type Multi-Directional Shot"/>
-        <cheat code="00CC-9603" type="Action Replay" description="Always Have Satellite type Fire Bomb"/>
-        <cheat code="00CC-9604" type="Action Replay" description="Always Have Satellite type Laser"/>
-        <cheat code="00CC-9605" type="Action Replay" description="Always Have Satellite type Bounce Shot"/>
-        <cheat code="00CC-9606" type="Action Replay" description="Always Have Satellite type Burner"/>
-        <cheat code="00CC-9607" type="Action Replay" description="Always Have Satellite type Vulcan Cannon"/>
-        <cheat code="00CC-9608" type="Action Replay" description="Always Have Satellite type Fragmentation Ball"/>
-        <cheat code="00CC-9609" type="Action Replay" description="Always Have Satellite type 4-Way Laser"/>
-        <cheat code="00CC-960A" type="Action Replay" description="Always Have Satellite type Vulcan Spread Shot"/>
-        <cheat code="00CC-960B" type="Action Replay" description="Always Have Satellite type Rolling Barrier
+<hashes>
+<hash md5="68cc1711bb89921da1f215f323f3bb2d"/>
+</hashes>
+<cheats>
+<cheat code="00CC-8C0F" type="Action Replay" description="Infinite Health"/>
+<cheat code="00CD-50FF + 00CD-51FF" type="Action Replay" description="Infinite Zenny"/>
+<cheat code="00CC-E001" type="Action Replay" description="Always Have Life Potion"/>
+<cheat code="00CC-D101 + 00CC-D205" type="Action Replay" description="Always Have Armor"/>
+<cheat code="00CC-9200 + 00CC-9300" type="Action Replay" description="Faster Rate of Fire"/>
+<cheat code="00CC-8700" type="Action Replay" description="Always Have Flying Stone Super Slow"/>
+<cheat code="00CC-8701" type="Action Replay" description="Always Have Flying Stone Normal"/>
+<cheat code="00CC-8702" type="Action Replay" description="Always Have Flying Stone High Speed"/>
+<cheat code="00CC-8703" type="Action Replay" description="Always Have Flying Stone Super High Speed"/>
+<cheat code="00CC-9600" type="Action Replay" description="Always Have Satellite type V Cannon"/>
+<cheat code="00CC-9601" type="Action Replay" description="Always Have Satellite type Missile"/>
+<cheat code="00CC-9602" type="Action Replay" description="Always Have Satellite type Multi-Directional Shot"/>
+<cheat code="00CC-9603" type="Action Replay" description="Always Have Satellite type Fire Bomb"/>
+<cheat code="00CC-9604" type="Action Replay" description="Always Have Satellite type Laser"/>
+<cheat code="00CC-9605" type="Action Replay" description="Always Have Satellite type Bounce Shot"/>
+<cheat code="00CC-9606" type="Action Replay" description="Always Have Satellite type Burner"/>
+<cheat code="00CC-9607" type="Action Replay" description="Always Have Satellite type Vulcan Cannon"/>
+<cheat code="00CC-9608" type="Action Replay" description="Always Have Satellite type Fragmentation Ball"/>
+<cheat code="00CC-9609" type="Action Replay" description="Always Have Satellite type 4-Way Laser"/>
+<cheat code="00CC-960A" type="Action Replay" description="Always Have Satellite type Vulcan Spread Shot"/>
+<cheat code="00CC-960B" type="Action Replay" description="Always Have Satellite type Rolling Barrier
 "/>
-        <cheat code="00CC-960C" type="Action Replay" description="Always Have Satellite type Rear Blaster"/>
-        <cheat code="00CC-960D" type="Action Replay" description="Always Have Satellite type Fireball"/>
-        
-    </cheats>
+<cheat code="00CC-960C" type="Action Replay" description="Always Have Satellite type Rear Blaster"/>
+<cheat code="00CC-960D" type="Action Replay" description="Always Have Satellite type Fireball"/>
+</cheats>
 </game>
 
 <game title="Ghost House (USA, Europe)">
