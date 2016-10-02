@@ -811,45 +811,45 @@
 </game>
 
 <game title="Penguin Land (USA, Europe)">
-    <hashes>
-        <hash md5="8ddec589f72cdcf2cd4caafb075ec8e4"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C1-1D63" type="Action Replay" description="Infinite Time"/>
-        <cheat code="00C1-1909" type="Action Replay" description="Infinite Eggs (Lives)"/>
-        <cheat code="00C4-0105" type="Action Replay" description="No Penguin"/>
-        <cheat code="00C1-A205" type="Action Replay" description="Infinite Polar Bears (In Map Design)"/>
-    </cheats>
+<hashes>
+<hash md5="8ddec589f72cdcf2cd4caafb075ec8e4"/>
+</hashes>
+<cheats>
+<cheat code="00C1-1D63" type="Action Replay" description="Infinite Time"/>
+<cheat code="00C1-1909" type="Action Replay" description="Infinite Eggs (Lives)"/>
+<cheat code="00C4-0105" type="Action Replay" description="No Penguin"/>
+<cheat code="00C1-A205" type="Action Replay" description="Infinite Polar Bears (In Map Design)"/>
+</cheats>
 </game>
 
 <game title="Prince of Persia (Europe)">
-    <hashes>
-        <hash md5="70e9b330dd6a91e7310f3c8d9a934ecc"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C2-9208" type="Action Replay" description="Infinite Life"/>
-    </cheats>
+<hashes>
+<hash md5="70e9b330dd6a91e7310f3c8d9a934ecc"/>
+</hashes>
+<cheats>
+<cheat code="00C2-9208" type="Action Replay" description="Infinite Life"/>
+</cheats>
 </game>
 
 <game title="Psycho Fox (USA, Europe)">
-    <hashes>
-        <hash md5="a9c2facf9ef536d095414ce2e7ce2f4f"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-1609" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-1C03" type="Action Replay" description="Start With BirdFly"/>
-        <cheat code="00C0-B701" type="Action Replay" description="Rapid Fire BirdFly (Instant Return)"/>
-        <cheat code="00C0-1905" type="Action Replay" description="Unlimited Money (Turn Off To Finish Betting)"/>
-        <cheat code="00C0-1B09" type="Action Replay" description="Unlimited Potions"/>
-        <cheat code="00C0-1809" type="Action Replay" description="Unlimited Effigies"/>
-        <cheat code="00C0-1A09" type="Action Replay" description="Unlimited Psycho Sticks"/>
-        <cheat code="00C0-1701" type="Action Replay" description="Start As Hippo"/>
-        <cheat code="00C0-1702" type="Action Replay" description="Start As Monkey"/>
-        <cheat code="00C0-1703" type="Action Replay" description="Start As Tiger"/>
-        <cheat code="00C0-2014" type="Action Replay" description="Level Select (7-3)"/>
-        <cheat code="00C0-2015" type="Action Replay" description="Warp Level Select A"/>
-        <cheat code="00C0-201C" type="Action Replay" description="Warp Level Select B"/>
-    </cheats>
+<hashes>
+<hash md5="a9c2facf9ef536d095414ce2e7ce2f4f"/>
+</hashes>
+<cheats>
+<cheat code="00C0-1609" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-1C03" type="Action Replay" description="Start With BirdFly"/>
+<cheat code="00C0-B701" type="Action Replay" description="Rapid Fire BirdFly (Instant Return)"/>
+<cheat code="00C0-1905" type="Action Replay" description="Unlimited Money (Turn Off To Finish Betting)"/>
+<cheat code="00C0-1B09" type="Action Replay" description="Unlimited Potions"/>
+<cheat code="00C0-1809" type="Action Replay" description="Unlimited Effigies"/>
+<cheat code="00C0-1A09" type="Action Replay" description="Unlimited Psycho Sticks"/>
+<cheat code="00C0-1701" type="Action Replay" description="Start As Hippo"/>
+<cheat code="00C0-1702" type="Action Replay" description="Start As Monkey"/>
+<cheat code="00C0-1703" type="Action Replay" description="Start As Tiger"/>
+<cheat code="00C0-2014" type="Action Replay" description="Level Select (7-3)"/>
+<cheat code="00C0-2015" type="Action Replay" description="Warp Level Select A"/>
+<cheat code="00C0-201C" type="Action Replay" description="Warp Level Select B"/>
+</cheats>
 </game>
 
 <game title="R-Type (World)">
@@ -869,15 +869,15 @@
 </game>
 
 <game title="Rambo - First Blood Part II (USA)">
-    <hashes>
-        <hash md5="7a080a155ad6a806da88aa1d3576d78c"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C1-2103" type="Action Replay" description="Infinite Arrows P1"/>
-        <cheat code="00C1-1F02" type="Action Replay" description="Infinite Lives P1"/>
-        <cheat code="00C1-2003" type="Action Replay" description="Infinite Lives P2"/>
-        <cheat code="00C1-2205" type="Action Replay" description="Infinite Arrows P2"/>
-    </cheats>
+<hashes>
+<hash md5="7a080a155ad6a806da88aa1d3576d78c"/>
+</hashes>
+<cheats>
+<cheat code="00C1-2103" type="Action Replay" description="Infinite Arrows P1"/>
+<cheat code="00C1-1F02" type="Action Replay" description="Infinite Lives P1"/>
+<cheat code="00C1-2003" type="Action Replay" description="Infinite Lives P2"/>
+<cheat code="00C1-2205" type="Action Replay" description="Infinite Arrows P2"/>
+</cheats>
 </game>
 
 <game title="Rastan (USA, Europe)">
@@ -893,47 +893,47 @@
 </game>
 
 <game title="Rocky (World)">
-    <hashes>
-        <hash md5="e884f9aa4063d0a90666fc3fa509c8bb"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-AC99" type="Action Replay" description="99 Hits (Training)"/>
-        <cheat code="00C1-C32F" type="Action Replay" description="Infinite Health P1"/>
-        <cheat code="00C1-E300" type="Action Replay" description="No Health P2"/>
-        <cheat code="00C1-C200" type="Action Replay" description="Move Rocky To The Far Left"/>
-        <cheat code="00C0-5F0E" type="Action Replay" description="Takes You Straight To Round 15"/>
-    </cheats>
+<hashes>
+<hash md5="e884f9aa4063d0a90666fc3fa509c8bb"/>
+</hashes>
+<cheats>
+<cheat code="00C0-AC99" type="Action Replay" description="99 Hits (Training)"/>
+<cheat code="00C1-C32F" type="Action Replay" description="Infinite Health P1"/>
+<cheat code="00C1-E300" type="Action Replay" description="No Health P2"/>
+<cheat code="00C1-C200" type="Action Replay" description="Move Rocky To The Far Left"/>
+<cheat code="00C0-5F0E" type="Action Replay" description="Takes You Straight To Round 15"/>
+</cheats>
 </game>
 
 <game title="Scramble Spirits (Europe)">
-    <hashes>
-        <hash md5="82b9ee0920c3c46798ecd659be0a5d9a"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C1-CA09" type="Action Replay" description="Infinite Lives P1"/>
-    </cheats>
+<hashes>
+<hash md5="82b9ee0920c3c46798ecd659be0a5d9a"/>
+</hashes>
+<cheats>
+<cheat code="00C1-CA09" type="Action Replay" description="Infinite Lives P1"/>
+</cheats>
 </game>
 
 <game title="Shinobi (USA, Europe)">
-    <hashes>
-        <hash md5="e567cc12e01c04cdde08e785f37e22b7"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-7A02" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-6C06" type="Action Replay" description="Invincible"/>
-    </cheats>
+<hashes>
+<hash md5="e567cc12e01c04cdde08e785f37e22b7"/>
+</hashes>
+<cheats>
+<cheat code="00C0-7A02" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-6C06" type="Action Replay" description="Invincible"/>
+</cheats>
 </game>
 
 <game title="Sonic Chaos (Europe)">
-    <hashes>
-        <hash md5="1d661134b14eedf6b4ae1c907581fd96"/>
-    </hashes>
-    <cheats>
-        <cheat code="00D2-9999" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00D2-9A99" type="Action Replay" description="Infinite Rings (99 - Get 1 Ring To Go To Bonus Stage)"/>
-        <cheat code="00D2-9A07" type="Action Replay" description="Infinite Rings (07 - Use If You Don't Want To Go To Bonus Stage)"/>
-        <cheat code="00D5-0C95" type="Action Replay" description="Higher Jumps"/>
-    </cheats>
+<hashes>
+<hash md5="1d661134b14eedf6b4ae1c907581fd96"/>
+</hashes>
+<cheats>
+<cheat code="00D2-9999" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00D2-9A99" type="Action Replay" description="Infinite Rings (99 - Get 1 Ring To Go To Bonus Stage)"/>
+<cheat code="00D2-9A07" type="Action Replay" description="Infinite Rings (07 - Use If You Don't Want To Go To Bonus Stage)"/>
+<cheat code="00D5-0C95" type="Action Replay" description="Higher Jumps"/>
+</cheats>
 </game>
 
 <game title="Wonder Boy (USA, Europe)">
