@@ -700,81 +700,81 @@
 </game>
 
 <game title="Ghost House (USA, Europe)">
-    <hashes>
-        <hash md5="580adb73aecd35348862fb6ed43ae956"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C1-F590" type="Action Replay" description="Infinite Health"/>
-        <cheat code="00C1-BA09" type="Action Replay" description="Infinite Lives"/>
-    </cheats>
+<hashes>
+<hash md5="580adb73aecd35348862fb6ed43ae956"/>
+</hashes>
+<cheats>
+<cheat code="00C1-F590" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C1-BA09" type="Action Replay" description="Infinite Lives"/>
+</cheats>
 </game>
 
 <game title="Ghouls'n Ghosts (USA, Europe)">
-    <hashes>
-        <hash md5="501431ccbeb321a9a2762888f0aa61ce"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-3309" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-4C01" type="Action Replay" description="Infinite Hits"/>
-        <cheat code="00C0-4B40" type="Action Replay" description="Fire and Thunder Magic Stays Full"/>
-        <cheat code="00C0-3E01" type="Action Replay" description="Conditional Invincibility"/>
-        <cheat code="00C0-5201" type="Action Replay" description="Double Clone Has No Time Limit"/>
-        <cheat code="00C0-4100" type="Action Replay" description="Arthur Starts With X Weapon Lance/Default"/>
-        <cheat code="00C0-4101" type="Action Replay" description="Arthur Starts With X Weapon Dagger"/>
-        <cheat code="00C0-4102" type="Action Replay" description="Arthur Starts With X Weapon Axe"/>
-        <cheat code="00C0-4103" type="Action Replay" description="Arthur Starts With X Weapon Discus"/>
-        <cheat code="00C0-4104" type="Action Replay" description="Arthur Starts With X Weapon Fireball"/>
-        <cheat code="00C0-4105" type="Action Replay" description="Arthur Starts With X Weapon Cannon"/>
-        <cheat code="00C0-4200" type="Action Replay" description="Arthur Starts With X Helmet Silver/Default"/>
-        <cheat code="00C0-4201" type="Action Replay" description="Arthur Starts With X Helmet Red"/>
-        <cheat code="00C0-4202" type="Action Replay" description="Arthur Starts With X Helmet Green"/>
-        <cheat code="00C0-4203" type="Action Replay" description="Arthur Starts With X Helmet Gold"/>
-        <cheat code="00C0-4300" type="Action Replay" description="Arthur Starts With X Armor Silver/Default"/>
-        <cheat code="00C0-4301" type="Action Replay" description="Arthur Starts With X Armor Red"/>
-        <cheat code="00C0-4302" type="Action Replay" description="Arthur Starts With X Armor Green"/>
-        <cheat code="00C0-4303" type="Action Replay" description="Arthur Starts With X Armor Gold"/>
-        <cheat code="00C0-4400" type="Action Replay" description="Arthur Starts With X Shoes Silver/Default"/>
-        <cheat code="00C0-4401" type="Action Replay" description="Arthur Starts With X Shoes Red"/>
-        <cheat code="00C0-4402" type="Action Replay" description="Arthur Starts With X Shoes Green"/>
-        <cheat code="00C0-4403" type="Action Replay" description="Arthur Starts With X Shoes Gold"/>
-    </cheats>
+<hashes>
+<hash md5="501431ccbeb321a9a2762888f0aa61ce"/>
+</hashes>
+<cheats>
+<cheat code="00C0-3309" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-4C01" type="Action Replay" description="Infinite Hits"/>
+<cheat code="00C0-4B40" type="Action Replay" description="Fire and Thunder Magic Stays Full"/>
+<cheat code="00C0-3E01" type="Action Replay" description="Conditional Invincibility"/>
+<cheat code="00C0-5201" type="Action Replay" description="Double Clone Has No Time Limit"/>
+<cheat code="00C0-4100" type="Action Replay" description="Arthur Starts With X Weapon Lance/Default"/>
+<cheat code="00C0-4101" type="Action Replay" description="Arthur Starts With X Weapon Dagger"/>
+<cheat code="00C0-4102" type="Action Replay" description="Arthur Starts With X Weapon Axe"/>
+<cheat code="00C0-4103" type="Action Replay" description="Arthur Starts With X Weapon Discus"/>
+<cheat code="00C0-4104" type="Action Replay" description="Arthur Starts With X Weapon Fireball"/>
+<cheat code="00C0-4105" type="Action Replay" description="Arthur Starts With X Weapon Cannon"/>
+<cheat code="00C0-4200" type="Action Replay" description="Arthur Starts With X Helmet Silver/Default"/>
+<cheat code="00C0-4201" type="Action Replay" description="Arthur Starts With X Helmet Red"/>
+<cheat code="00C0-4202" type="Action Replay" description="Arthur Starts With X Helmet Green"/>
+<cheat code="00C0-4203" type="Action Replay" description="Arthur Starts With X Helmet Gold"/>
+<cheat code="00C0-4300" type="Action Replay" description="Arthur Starts With X Armor Silver/Default"/>
+<cheat code="00C0-4301" type="Action Replay" description="Arthur Starts With X Armor Red"/>
+<cheat code="00C0-4302" type="Action Replay" description="Arthur Starts With X Armor Green"/>
+<cheat code="00C0-4303" type="Action Replay" description="Arthur Starts With X Armor Gold"/>
+<cheat code="00C0-4400" type="Action Replay" description="Arthur Starts With X Shoes Silver/Default"/>
+<cheat code="00C0-4401" type="Action Replay" description="Arthur Starts With X Shoes Red"/>
+<cheat code="00C0-4402" type="Action Replay" description="Arthur Starts With X Shoes Green"/>
+<cheat code="00C0-4403" type="Action Replay" description="Arthur Starts With X Shoes Gold"/>
+</cheats>
 </game>
 
 <game title="Golden Axe (USA, Europe)">
-    <hashes>
-        <hash md5="25cc787700fd9f1a5abf1c381d1b897b"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C0-0501 + 00C0-4501" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00C0-0601" type="Action Replay" description="Infinite Level 1 Magic"/>
-        <cheat code="00C1-871F" type="Action Replay" description="Infinite Energy"/>
-    </cheats>
+<hashes>
+<hash md5="25cc787700fd9f1a5abf1c381d1b897b"/>
+</hashes>
+<cheats>
+<cheat code="00C0-0501 + 00C0-4501" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C0-0601" type="Action Replay" description="Infinite Level 1 Magic"/>
+<cheat code="00C1-871F" type="Action Replay" description="Infinite Energy"/>
+</cheats>
 </game>
 
 <game title="Indiana Jones and the Last Crusade (Europe)">
-    <hashes>
-        <hash md5="e83f8c99882e2123bd344090421e84c3"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C9-8709" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00CB-B909" type="Action Replay" description="Infinite Time - Ten's Digit"/>
-        <cheat code="00CB-A909" type="Action Replay" description="Infinite Time - One's Digit"/>
-        <cheat code="00C9-7309" type="Action Replay" description="Infinite Whips"/>
-        <cheat code="00CB-A309" type="Action Replay" description="FAKE Infinite Time - Ten's Digit"/>
-        <cheat code="00CB-BA09" type="Action Replay" description="FAKE Infinite Time - One's Digit"/>
-        <cheat code="00CB-AF09" type="Action Replay" description="FAKE Infinite Whips"/>
-        <cheat code="000C9-C13E" type="Action Replay" description="FAKE Infinite Health"/>
-        <cheat code="00C9-C002" type="Action Replay" description="Infinite Credits (Continues)"/>
-    </cheats>
+<hashes>
+<hash md5="e83f8c99882e2123bd344090421e84c3"/>
+</hashes>
+<cheats>
+<cheat code="00C9-8709" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00CB-B909" type="Action Replay" description="Infinite Time - Ten's Digit"/>
+<cheat code="00CB-A909" type="Action Replay" description="Infinite Time - One's Digit"/>
+<cheat code="00C9-7309" type="Action Replay" description="Infinite Whips"/>
+<cheat code="00CB-A309" type="Action Replay" description="FAKE Infinite Time - Ten's Digit"/>
+<cheat code="00CB-BA09" type="Action Replay" description="FAKE Infinite Time - One's Digit"/>
+<cheat code="00CB-AF09" type="Action Replay" description="FAKE Infinite Whips"/>
+<cheat code="000C9-C13E" type="Action Replay" description="FAKE Infinite Health"/>
+<cheat code="00C9-C002" type="Action Replay" description="Infinite Credits (Continues)"/>
+</cheats>
 </game>
 
 <game title="James Bond 007 - The Duel (Europe)">
-    <hashes>
-        <hash md5="c52e496c497d427747769aaedfbb8dab"/>
-    </hashes>
-    <cheats>
-        <cheat code="00C1-1304" type="Action Replay" description="Always Have Full Life (You can still die if you fall from a great height!)"/>
-    </cheats>
+<hashes>
+<hash md5="c52e496c497d427747769aaedfbb8dab"/>
+</hashes>
+<cheats>
+<cheat code="00C1-1304" type="Action Replay" description="Always Have Full Life (You can still die if you fall from a great height!)"/>
+</cheats>
 </game>
 
 <game title="Kenseiden (USA, Europe)">
@@ -783,31 +783,31 @@
 <hash md5="93dbdbe850b4a7db2142b861f8005716"/>
 </hashes>
 <cheats>
-    <cheat code="00C1-1114" type="Action Replay" description="Infinite Health"/>
-    <cheat code="00C0-9009" type="Action Replay" description="Infinite Lives"/>
-    <cheat code="00C1-1E1B" type="Action Replay" description="Invulnerability"/>
+<cheat code="00C1-1114" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C0-9009" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C1-1E1B" type="Action Replay" description="Invulnerability"/>
 </cheats>
 </game>
 
 <game title="Ninja Gaiden (Europe)">
-    <hashes>
-        <hash md5="2cd25b3d9a1ced329a551d7fc3c0f01e"/>
-    </hashes>
-    <cheats>
-        <cheat code="00DF-C815" type="Action Replay" description="Invincibility"/>
-        <cheat code="00DF-C704" type="Action Replay" description="Infinite Lives"/>
-        <cheat code="00DF-C3E7" type="Action Replay" description="Infinite Weapons"/>
-        <cheat code="00DF-B106" type="Action Replay" description="Infinite Time"/>
-        <cheat code="00CA-3CF1" type="Action Replay" description="Invincibility (Alternate)"/>
-        <cheat code="00CB-7C00" type="Action Replay" description="Bosses Are Never Invincible"/>
-        <cheat code="00CB-7A00" type="Action Replay" description="Bosses Die In 1 Hit"/>
-        <cheat code="00DF-B000" type="Action Replay" description="Infinite Time (Alternate)"/>
-        <cheat code="00DF-B500" type="Action Replay" description="Have Weapon Small Shuriken"/>
-        <cheat code="00DF-B501" type="Action Replay" description="Have Weapon Large Shuriken"/>
-        <cheat code="00DF-B502" type="Action Replay" description="Have Weapon 4 Way Blast"/>
-        <cheat code="00DF-B503" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
-        <cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/>
-    </cheats>
+<hashes>
+<hash md5="2cd25b3d9a1ced329a551d7fc3c0f01e"/>
+</hashes>
+<cheats>
+<cheat code="00DF-C815" type="Action Replay" description="Invincibility"/>
+<cheat code="00DF-C704" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00DF-C3E7" type="Action Replay" description="Infinite Weapons"/>
+<cheat code="00DF-B106" type="Action Replay" description="Infinite Time"/>
+<cheat code="00CA-3CF1" type="Action Replay" description="Invincibility (Alternate)"/>
+<cheat code="00CB-7C00" type="Action Replay" description="Bosses Are Never Invincible"/>
+<cheat code="00CB-7A00" type="Action Replay" description="Bosses Die In 1 Hit"/>
+<cheat code="00DF-B000" type="Action Replay" description="Infinite Time (Alternate)"/>
+<cheat code="00DF-B500" type="Action Replay" description="Have Weapon Small Shuriken"/>
+<cheat code="00DF-B501" type="Action Replay" description="Have Weapon Large Shuriken"/>
+<cheat code="00DF-B502" type="Action Replay" description="Have Weapon 4 Way Blast"/>
+<cheat code="00DF-B503" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
+<cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/>
+</cheats>
 </game>
 
 <game title="Penguin Land (USA, Europe)">
