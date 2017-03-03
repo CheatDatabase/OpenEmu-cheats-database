@@ -502,6 +502,18 @@
 <!-- Sega Master System -->
 <system id="openemu.system.sms">
 
+<game title="Aladdin (Europe)">
+<hashes>
+<hash md5="e3f60072028eb6f02c2b0558804aed83"/>
+</hashes>
+<cheats>
+<cheat code="00C4-3CFF" type="Action Replay" description="Always Have Key"/>
+<cheat code="00C1-1606" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C4-67FF" type="Action Replay" description="Invincibility"/>
+<cheat code="00C4-5699" type="Action Replay" description="Unlimited Rocks"/>
+</cheats>
+</game>
+
 <game title="Alex Kidd in Miracle World (USA, Europe)">
 <hashes>
 <hash md5="3d9a8d5c2d6d3f8ff63a8f7c77ffa983"/>
