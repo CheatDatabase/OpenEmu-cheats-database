@@ -298,11 +298,13 @@
 </cheats>
 </game>
 
-<game title="Super Mario Bros. (World)">
+<game title="Super Mario Bros. (World)
+  File MD5    811B027EAF99C2DEF7B933C5208636DE File CRC32    3337EC46 -- ROM CRC32    D445F698
+  ">
 <hashes>
 <hash md5="811b027eaf99c2def7b933c5208636de"/>
 </hashes>
-<cheats>
+<cheats>  
 <cheat code="SXIOPO" type="Game Genie" description="Infinite lives for both players"/>
 <cheat code="OZTLLX + AATLGZ + SZLIVO" type="Game Genie" description="Always stay big"/>
 <cheat code="AATOZE" type="Game Genie" description="Start players 1 and 2 with 9 lives"/>
