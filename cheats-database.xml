@@ -223,10 +223,25 @@
 </cheats>
 </game>
 
-<game title="Legend of Zelda, The (USA)">
+<game title="Legend of Zelda, The (Europe)
+  File MD5    C0A64B78C51A9FD3E2E6508B27E291E4 File CRC32    0533B471 -- ROM CRC32    ED7F5555
+  ">
 <hashes>
+<hash md5="c0a64b78c51a9fd3e2e6508b27e291e4"/>
+</hashes>
+<cheats>
+<cheat code="ASOUUAEY" type="Game Genie" description="There's a Heart In Every Screen"/>
+<cheat code="AAEAKVXY" type="Game Genie" description="You Can Always Attack"/>
+</cheats>
+</game>
+
+<game title="Legend of Zelda, The (USA)
+  File MD5    DFE063B506F9380EE111D80F80A7CA59 File CRC32    25C4C4C4 -- ROM CRC32    3FE272FB
+  File MD5    337BD6F1A1163DF31BF2633665589AB0 File CRC32    D7AE93DF -- ROM CRC32    3FE272FB
+  ">
+<hashes>
+<hash md5="dfe063b506f9380ee111d80f80a7ca59"/>
 <hash md5="337bd6f1a1163df31bf2633665589ab0"/>
-<hash md5="f4095791987351be68674a9355b266bc"/>
 </hashes>
 <cheats>
 <cheat code="YYKPOYZZ" type="Game Genie" description="Create character with 8 life hearts"/>
@@ -243,6 +258,17 @@
 <cheat code="OLYVSK" type="Game Genie" description="Invincible"/>
 <cheat code="ESSYGLSL" type="Game Genie" description="Sword Beam Doesn't Stop After Hitting Enemies"/>
 <cheat code="OXELYLSX + EUEUALAA" type="Game Genie" description="Walk Faster"/>
+</cheats>
+</game>
+
+<game title="Legend of Zelda, The (USA) (Rev A)
+  File MD5    F4095791987351BE68674A9355B266BC File CRC32    02BB0C56 -- ROM CRC32    EAF7ED72
+  ">
+<hashes>
+<hash md5="f4095791987351be68674a9355b266bc"/>
+</hashes>
+<cheats>
+<cheat code="SXXOPPSA + ATKOLPEY" type="Game Genie" description="Walk through Walls Dungeons"/>
 </cheats>
 </game>
 
@@ -312,7 +338,7 @@
 <cheat code="SZKGKXVK" type="Game Genie" description="Infinite Lives"/>
 </cheats>
 </game>
-		
+
 </system>
 
 <!-- Super Nintendo Entertainment System -->
