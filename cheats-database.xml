@@ -176,6 +176,33 @@
 </cheats>
 </game>
 
+<game title="Castlevania (USA)
+  File MD5    00D93C9F6B8AEFB8B6C02B20147DF4EC File CRC32    39C879BB ROM CRC32    0AC1AA8F
+  ">
+<hashes>
+<hash md5="00d93c9f6b8aefb8b6c02b20147df4ec"/>
+</hashes>
+<cheats>
+<cheat code="STUVGN" type="Game Genie" description="Collect Items Automatically"/>
+<cheat code="XAZSNZ" type="Game Genie" description="Infinite Hearts"/>
+</cheats>
+</game>
+
+<game title="Castlevania (USA) (Rev A)
+  File MD5    52EB3F7E2C5FC765AA71F21C85F0770E File CRC32    856114C8 ROM CRC32    B668C7FC
+  File MD5    6768E0F020AECD2809D70BBF8CCE3BE3 File CRC32    9AB191BC ROM CRC32    B668C7FC
+  ">
+<hashes>
+<hash md5="52eb3f7e2c5fc765aa71f21c85f0770e"/>
+<hash md5="6768e0f020aecd2809d70bbf8cce3be3"/>
+</hashes>
+<cheats>
+<cheat code="SKNGLZVG" type="Game Genie" description="Infinite Lives"/>
+<cheat code="SZSVLYSE" type="Game Genie" description="Infinite Health"/>
+<cheat code="ESSTGTEY" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
 <game title="Contra (USA)">
 <hashes>
 <hash md5="7bdad8b4a7a56a634c9649d20bd3011b"/>
@@ -191,6 +218,40 @@
 </cheats>
 </game>
 
+<game title="Donkey Kong (World) (Rev A)
+  File MD5    40319CAD12C80FC095901EB0182DF838 File CRC32    E40B593B ROM CRC32    6F97C721
+  ">
+<hashes>
+<hash md5="40319cad12c80fc095901eb0182df838"/>
+</hashes>
+<cheats>
+<cheat code="AAOSZTYZ + AUKIPVOZ" type="Game Genie" description="Can Fall Off Platforms"/>
+<cheat code="SXNGOZVG" type="Game Genie" description="Infinite lives"/>
+<cheat code="AEKKEVIA" type="Game Genie" description="Controllable Jump"/>
+</cheats>
+</game>
+
+<game title="Dr. Mario (Europe)
+  File MD5    3F27EDA62C6692F96790AF9A1D917EF6 File CRC32    3F4E1ECF ROM CRC32    9735D267
+  ">
+<hashes>
+<hash md5="3f27eda62c6692f96790af9a1d917ef6"/>
+</hashes>
+<cheats>
+<cheat code="GXEANIVT" type="Game Genie" description="Vitamin capsules don't fall"/>
+</cheats>
+</game>
+
+<game title="Dr. Mario (Japan, USA) (Rev A)
+  File MD5    8181D696756578FC92E6C4C86DA01904 File CRC32    7623DFFD ROM CRC32    DE581355
+  ">
+<hashes>
+<hash md5="8181d696756578fc92e6c4c86da01904"/>
+</hashes>
+<cheats>
+</cheats>
+</game>
+
 <game title="Excitebike (Japan, USA)">
 <hashes>
 <hash md5="d7fe15cf2bc7b6582c07d12b3cf3bede"/>
@@ -203,6 +264,20 @@
 <cheat code="GAUSEYAP" type="Game Genie" description="Timer runs at quarter speed"/>
 <cheat code="ENUKGEAP + GESGPALA" type="Game Genie" description="Turbo speed on 'A' button"/>
 <cheat code="EVUKGEAP + TESGPALA" type="Game Genie" description="Mega turbo speed on 'A' button"/>
+</cheats>
+</game>
+
+<game title="Final Fantasy (USA)
+  File MD5    D111FC7770E12F67474897AAAD834C0C File CRC32    5C892F3B ROM CRC32    CEBD2A31
+  File MD5    9B0F042CFDC5F9E8200B47104A4768A9 File CRC32    AB12ECE6 ROM CRC32    CEBD2A31
+">
+<hashes>
+<hash md5="d111fc7770e12f67474897aaad834c0c"/>
+<hash md5="9b0f042cfdc5f9e8200b47104a4768a9"/>
+</hashes>
+<cheats>
+<cheat code="GXSZPKSV + GXSXZKSV" type="Game Genie" description="Almost infinite Gold"/>
+<cheat code="ITSPSKIN + XTSPVKKS" type="Game Genie" description="All Characters Get A 4% Increase In Hit % At Every Level Up"/>
 </cheats>
 </game>
 
@@ -223,8 +298,33 @@
 </cheats>
 </game>
 
+<game title="Kirby's Adventure (USA)
+  File MD5    D373B55EB01950E771E9429130A77551 File CRC32    FB6D1A42 ROM CRC32    D7794AFC
+  ">
+<hashes>
+<hash md5="d373b55eb01950e771e9429130a77551"/>
+</hashes>
+<cheats>
+<cheat code="SZEPSVSE" type="Game Genie" description="Infinite energy"/>
+<cheat code="SXKTPKVG" type="Game Genie" description="Infinite Lives"/>
+<cheat code="EINELGEY" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Kirby's Adventure (USA) (Rev A)
+  File MD5    69018A5181F255BC3A66BADFB19FDB76 File CRC32    9EFD5757 ROM CRC32    5ED6F221
+  ">
+<hashes>
+<hash md5="69018a5181f255bc3a66badfb19fdb76"/>
+</hashes>
+<cheats>
+<cheat code="AASELZZG + AINEYZEP + SZNEGXSV" type="Game Genie" description="Inhale From Anywhere"/>
+<cheat code="GGNEAESN + VGNEPAGY + EANEZAAT + AOOEIOOV + AOOETPYE + GXKEIPEL" type="Game Genie" description="Hit Anywhere"/>
+</cheats>
+</game>
+
 <game title="Legend of Zelda, The (Europe)
-  File MD5    C0A64B78C51A9FD3E2E6508B27E291E4 File CRC32    0533B471 -- ROM CRC32    ED7F5555
+  File MD5    C0A64B78C51A9FD3E2E6508B27E291E4 File CRC32    0533B471 ROM CRC32    ED7F5555
   ">
 <hashes>
 <hash md5="c0a64b78c51a9fd3e2e6508b27e291e4"/>
@@ -236,8 +336,8 @@
 </game>
 
 <game title="Legend of Zelda, The (USA)
-  File MD5    DFE063B506F9380EE111D80F80A7CA59 File CRC32    25C4C4C4 -- ROM CRC32    3FE272FB
-  File MD5    337BD6F1A1163DF31BF2633665589AB0 File CRC32    D7AE93DF -- ROM CRC32    3FE272FB
+  File MD5    DFE063B506F9380EE111D80F80A7CA59 File CRC32    25C4C4C4 ROM CRC32    3FE272FB
+  File MD5    337BD6F1A1163DF31BF2633665589AB0 File CRC32    D7AE93DF ROM CRC32    3FE272FB
   ">
 <hashes>
 <hash md5="dfe063b506f9380ee111d80f80a7ca59"/>
@@ -262,7 +362,7 @@
 </game>
 
 <game title="Legend of Zelda, The (USA) (Rev A)
-  File MD5    F4095791987351BE68674A9355B266BC File CRC32    02BB0C56 -- ROM CRC32    EAF7ED72
+  File MD5    F4095791987351BE68674A9355B266BC File CRC32    02BB0C56 ROM CRC32    EAF7ED72
   ">
 <hashes>
 <hash md5="f4095791987351be68674a9355b266bc"/>
@@ -272,7 +372,10 @@
 </cheats>
 </game>
 
-<game title="Mega Man 2 (USA)">
+<game title="Mega Man 2 (USA)
+  File MD5    8E4BC5B03FFBD4EF91400E92E50DD294 File CRC32    5E268761 ROM CRC32    0FCFC04D
+  File MD5    CAAEB9EE3B52839DE261FD16F93103E6 File CRC32    A9BD44BC ROM CRC32    0FCFC04D
+  ">
 <hashes>
 <hash md5="8e4bc5b03ffbd4ef91400e92e50dd294"/>
 <hash md5="caaeb9ee3b52839de261fd16f93103e6"/>
@@ -284,7 +387,28 @@
 </cheats>
 </game>
 
-<game title="Punch-Out!! (USA)">
+<game title="Metroid (USA)
+  File MD5    D7DA4A907BE0012ABCA6625471EF2C9C File CRC32    4DE6A02B ROM CRC32    70080810
+  File MD5    D77C8053168DA14B360BF5CAECCC5964 File CRC32    A2C89CB9 ROM CRC32    70080810
+  ">
+<hashes>
+<hash md5="d7da4a907be0012abca6625471ef2c9c"/>
+<hash md5="d77c8053168da14b360bf5caeccc5964"/>
+</hashes>
+<cheats>
+<cheat code="AEXGXTLA" type="Game Genie" description="Infinite Health"/>
+<cheat code="SZUILUVK" type="Game Genie" description="Infinite rockets on pick-up"/>
+<cheat code="EPNVLZKA + PZNVGZZN + AVOYIXSL + EPKYUGAZ + APKYKKKP" type="Game Genie" description="Invincible"/>
+</cheats>
+</game>
+
+<game title="Ninja Gaiden (USA)
+  File MD5    0C2CCCDA6BA6CAB7BEDE0FF05E7F6852 File CRC32    11F953F6 ROM CRC32    7C4A72D8
+  "><hashes><hash md5="0c2cccda6ba6cab7bede0ff05e7f6852"/></hashes><cheats><cheat code="SXXVYPSA" type="Game Genie" description="Infinite Energy"/><cheat code="SZETPGVG" type="Game Genie" description="Infinite lives"/><cheat code="APEIKGTA" type="Game Genie" description="Maximum strength regained from restorer"/></cheats></game>
+
+<game title="Punch-Out!! (USA)
+  File MD5    3E4AF91097AECE830B3039AF3F2C0802 File CRC32    A827FF1B ROM CRC32    B95E9E7F
+">
 <hashes>
 <hash md5="3e4af91097aece830b3039af3f2c0802"/>
 </hashes>
@@ -298,22 +422,75 @@
 </cheats>
 </game>
 
+<game title="Mike Tyson's Punch-Out!! (Japan, USA)
+  File MD5    B9A66B2760DAA7D5639CBAD903DE8A18 File CRC32    83DB7938 ROM CRC32    92A2185C
+">
+<hashes>
+<hash md5="b9a66b2760daa7d5639cbad903de8a18"/>
+</hashes>
+<cheats>
+<cheat code="ALVAYPEY" type="Game Genie" description="Always Able To Do Star Punches"/>
+<cheat code="AGUELIGA" type="Game Genie" description="Energy Replenishment"/>
+<cheat code="ATEALIXZ" type="Game Genie" description="Infinite Health"/>
+<cheat code="PAXEUPAE" type="Game Genie" description="Infinite Hearts Stays At 99"/>
+<cheat code="SXOEYNVV" type="Game Genie" description="Infinite Time"/>
+<cheat code="INUAIZSY + AEEAAAST" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Mike Tyson's Punch-Out!! (Japan, USA) (Rev A)
+  File MD5    C119A5A9B0E2959AD5D11562F9F4CE55 File CRC32    3DF8E170 ROM CRC32    2C818014
+">
+<hashes>
+<hash md5="c119a5a9b0e2959ad5d11562f9f4ce55"/>
+</hashes>
+<cheats>
+</cheats>
+</game>
+
 <game title="Super Mario Bros. (World)
-  File MD5    811B027EAF99C2DEF7B933C5208636DE File CRC32    3337EC46 -- ROM CRC32    D445F698
+  File MD5    811B027EAF99C2DEF7B933C5208636DE File CRC32    3337EC46 ROM CRC32    D445F698
   ">
 <hashes>
 <hash md5="811b027eaf99c2def7b933c5208636de"/>
 </hashes>
-<cheats>  
+<cheats>
 <cheat code="SXIOPO" type="Game Genie" description="Infinite lives for both players"/>
 <cheat code="OZTLLX + AATLGZ + SZLIVO" type="Game Genie" description="Always stay big"/>
 <cheat code="AATOZE" type="Game Genie" description="Start players 1 and 2 with 9 lives"/>
 </cheats>
 </game>
 
-<game title="Super Mario Bros. 2 (USA)">
+<game title="Super Mario Bros. 2 (Europe)
+  File MD5    838436B995E619C65198F5057EF12EE0 File CRC32    C3DD80AF ROM CRC32    E94E883D
+">
 <hashes>
-<hash md5="71576d8339bd63198fcfc51a92016d58"/>
+<hash md5="838436b995e619c65198f5057ef12ee0"/>
+</hashes>
+<cheats>
+<cheat code="AVUUNZSZ" type="Game Genie" description="Don't Get Hurt By Spikes"/>
+<cheat code="OXEPXPEN" type="Game Genie" description="Enemies Die On Sight"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 2 (USA)
+  File MD5    E1A51EF1C4E1D1DE021E6F02D7F1EE9C File CRC32    8AA4ACE0 ROM CRC32    57AC67AF
+">
+<hashes>
+<hash md5="e1a51ef1c4e1d1de021e6f02d7f1ee9c"/>
+</hashes>
+<cheats>
+<cheat code="SZELVXSE" type="Game Genie" description="Infinite Energy"/>
+<cheat code="OZXYGLES + SAXYTLSZ" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 2 (USA) (Rev A)
+  File MD5    D769D73689EA4684DBB0BD7CF3A24B2F File CRC32    17518181 ROM CRC32    CA594ACE
+  File MD5    25B7E8471AE58316593E58205FA16803 File CRC32    E0CA425C ROM CRC32    CA594ACE
+">
+<hashes>
+<hash md5="d769d73689ea4684dbb0bd7cf3a24b2f"/>
 <hash md5="25b7e8471ae58316593e58205fa16803"/>
 </hashes>
 <cheats>
@@ -322,13 +499,64 @@
 </cheats>
 </game>
 
-<game title="Super Mario Bros. 3 (USA) (Rev A)">
+<game title="Super Mario Bros. 3 (USA) (Rev A)
+  File MD5    86D1982FEA7342C0AF9679DDF3869D8D File CRC32    0B742B33 ROM CRC32    2E6301ED
+">
 <hashes>
 <hash md5="86d1982fea7342c0af9679ddf3869d8d"/>
 </hashes>
 <cheats>
 <cheat code="SLXPLOVS" type="Game Genie" description="Infinite lives for Mario and Luigi"/>
 <cheat code="SZKIKXSE" type="Game Genie" description="Invincibility after changing up from Super Mario"/>
+</cheats>
+</game>
+
+<game title="Super Mario Bros. 3 (Europe)
+  File MD5    A047CF09DDBF30D60FB8692BCD539A50 File CRC32    3BC2E2DF ROM CRC32    1ED5C801
+">
+<hashes>
+<hash md5="a047cf09ddbf30d60fb8692bcd539a50"/>
+</hashes>
+<cheats>
+<cheat code="AVSIUOSZ" type="Game Genie" description="Can't Take Damage Or Die (If you don't fall down a pit)"/>
+<cheat code="LEOSSZPA" type="Game Genie" description="When You Die You Get Fire Mario"/>
+</cheats>
+</game>
+
+<game title="Pac-Man (USA) (Namco)
+  File MD5    3DDCA58C51DD38D59F9271D24E7105F9 File CRC32    15D202D8 ROM CRC32    9E4E9CC2
+">
+<hashes>
+<hash md5="3ddca58c51dd38d59f9271d24e7105f9"/>
+</hashes>
+<cheats>
+<cheat code="GZEIYLEY" type="Game Genie" description="Invincibility"/>
+<cheat code="AEUIAUAP + ASXSLGEY + AINSLGEI + ANUIGGEY" type="Game Genie" description="Walk Through Walls"/>
+</cheats>
+</game>
+
+<game title="Pac-Man (USA) (Tengen) (Unl)
+  File MD5    D34E7A74D8D2C231B6CC601210E28AD0 File CRC32    16A466E3 ROM CRC32    9D38F8F9
+">
+<hashes>
+<hash md5="d34e7a74d8d2c231b6cc601210e28ad0"/>
+</hashes>
+<cheats>
+
+</cheats>
+</game>
+
+<game title="Pac-Man (USA) (Tengen)
+  File MD5    A69D310F8CAE9397FBD39F204672B5C7 File CRC32    22276A55 ROM CRC32    A9BBF44F
+">
+<hashes>
+<hash md5="a69d310f8cae9397fbd39f204672b5c7"/>
+</hashes>
+<cheats>
+<cheat code="SZEKKIVG" type="Game Genie" description="Both players have infinite lives"/>
+<cheat code="GXKITZEY" type="Game Genie" description="Invincibility"/>
+<cheat code="AAVSYUAP + AIUSZGEI + AINILGEY + AYVSZGEY" type="Game Genie" description="Walk Through Walls"/>
+<cheat code="AYVITOGL" type="Game Genie" description="Power pills last longer"/>
 </cheats>
 </game>
 
