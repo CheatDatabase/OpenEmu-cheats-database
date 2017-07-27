@@ -176,6 +176,30 @@
 </cheats>
 </game>
 
+<game title="Balloon Fight (USA)
+  File MD5    6E125395CA4F18ADDB8CE6C9152DEA85 File CRC32    CB8FD7B2 ROM CRC32    401349A8
+  ">
+<hashes>
+<hash md5="6e125395ca4f18addb8ce6c9152dea85"/>
+</hashes>
+<cheats>
+<cheat code="SUNNIZVI" type="Game Genie" description="Infinite lives"/>
+<cheat code="AVXTNYKA" type="Game Genie" description="Balloons are unburstable"/>
+</cheats>
+</game>
+
+<game title="Bubble Bobble (USA)
+  File MD5    E6CB4E0FAF2E944B2A0C8D78A399AC7F File CRC32    D3A91B41 ROM CRC32    5E900522
+  ">
+<hashes>
+<hash md5="e6cb4e0faf2e944b2a0c8d78a399ac7f"/>
+</hashes>
+<cheats>
+<cheat code="PAUSXX" type="Game Genie" description="Always Shoot Lightning Bubbles"/>
+<cheat code="PAISII" type="Game Genie" description="Infinite Life, You'll Never Die"/>
+</cheats>
+</game>
+
 <game title="Castlevania (USA)
   File MD5    00D93C9F6B8AEFB8B6C02B20147DF4EC File CRC32    39C879BB ROM CRC32    0AC1AA8F
   ">
@@ -200,6 +224,23 @@
 <cheat code="SKNGLZVG" type="Game Genie" description="Infinite Lives"/>
 <cheat code="SZSVLYSE" type="Game Genie" description="Infinite Health"/>
 <cheat code="ESSTGTEY" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Castlevania II - Simon's Quest (USA)
+  File MD5    1B827C602C904D8C846499C9F54B93E0 File CRC32    A9C2C503 ROM CRC32    C471E42D
+  ">
+<hashes>
+<hash md5="1b827c602c904d8c846499c9f54b93e0"/>
+</hashes>
+<cheats>
+<cheat code="SZKEIVVK" type="Game Genie" description="Invincibility 2"/>
+<cheat code="EIKELTEY" type="Game Genie" description="Invincibility 2 Alternative"/>
+<cheat code="SXOSLYSA" type="Game Genie" description="Stop Time"/>
+<cheat code="AEKIYLPA" type="Game Genie" description="Always Equipped With A Shield"/>
+<cheat code="SZUISPVG" type="Game Genie" description="Infinite Garlic"/>
+<cheat code="IAXIOPVG" type="Game Genie" description="Infinite Laurels"/>
+<cheat code="GXOGGZVG" type="Game Genie" description="Infinite Lives"/>
 </cheats>
 </game>
 
@@ -231,6 +272,30 @@
 </cheats>
 </game>
 
+<game title="Donkey Kong Jr. (World) (Rev A)
+  File MD5    F2124D8595DA011D78CD655AC6FA9F0B File CRC32    2A794CCB ROM CRC32    4864C304
+  File MD5    C6B4D49A527F46F057772DC6EA089355 File CRC32    5E73CFFA ROM CRC32    4864C304
+  ">
+<hashes>
+<hash md5="f2124d8595da011d78cd655ac6fa9f0b"/>
+<hash md5="c6b4d49a527f46f057772dc6ea089355"/>
+</hashes>
+<cheats>
+<cheat code="AAKIOZLA" type="Game Genie" description="Can Fall Onto Platforms"/>
+<cheat code="XZEIIKOZ" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Double Dragon II - The Revenge (USA) (Rev A)
+  File MD5    B94BE0BF2E861BCA19339920CD786F53 File CRC32    A0F7027D ROM CRC32    8A640AEF
+  ">
+<hashes>
+<hash md5="b94be0bf2e861bca19339920cd786f53"/>
+</hashes>
+<cheats>
+</cheats>
+</game>
+
 <game title="Dr. Mario (Europe)
   File MD5    3F27EDA62C6692F96790AF9A1D917EF6 File CRC32    3F4E1ECF ROM CRC32    9735D267
   ">
@@ -252,7 +317,19 @@
 </cheats>
 </game>
 
-<game title="Excitebike (Japan, USA)">
+<game title="Excitebike (Europe)
+  File MD5    92BCA9B2AF26A8D310AD13A09CA7AFB8 File CRC32    E811FCF8 ROM CRC32    8A0C7337
+">
+<hashes>
+<hash md5="92bca9b2af26a8d310ad13a09ca7afb8"/>
+</hashes>
+<cheats>
+</cheats>
+</game>
+
+<game title="Excitebike (Japan, USA)
+  File MD5    D7FE15CF2BC7B6582C07D12B3CF3BEDE File CRC32    2BB33C69 ROM CRC32    49AEB3A6
+">
 <hashes>
 <hash md5="d7fe15cf2bc7b6582c07d12b3cf3bede"/>
 </hashes>
@@ -281,7 +358,53 @@
 </cheats>
 </game>
 
-<game title="Ice Climber (USA, Europe)">
+<game title="Galaga - Demons of Death (USA)
+  File MD5    486BBB76F49DCAD3982E63239346F4BC File CRC32    E36D5991 ROM CRC32    1DB07C0D
+  ">
+<hashes>
+<hash md5="486bbb76f49dcad3982e63239346f4bc"/>
+</hashes>
+<cheats>
+<cheat code="ATNVSAVZ" type="Game Genie" description="Become invincible"/>
+<cheat code="OXSTZPSX + YESTLOPY" type="Game Genie" description="Can't be caught by tractor beam!"/>
+<cheat code="XVOKVUXK" type="Game Genie" description="Infinite lives"/>
+<cheat code="GXEVPAEI" type="Game Genie" description="Start with twin shots"/>
+</cheats>
+</game>
+
+<game title="Ghosts'n Goblins (USA)
+  File MD5    6DD3872FFF67B4F324A740AA87AC2B93 File CRC32    87ED54AA ROM CRC32    B4E4879E
+  File MD5    CCC77C8EAFBDA6AF892324583A54C127 File CRC32    983DD1DE ROM CRC32    B4E4879E
+  ">
+<hashes>
+<hash md5="6dd3872fff67b4f324a740aa87ac2b93"/>
+<hash md5="ccc77c8eafbda6af892324583a54c127"/>
+</hashes>
+<cheats>
+<cheat code="PEXTYOPO" type="Game Genie" description="Infinite Armor"/>
+<cheat code="SZEGNOVK" type="Game Genie" description="Infinite lives for players 1 and 2"/>
+<cheat code="SXOIGUVK" type="Game Genie" description="Infinite Time"/>
+<cheat code="AEVNGIPA" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Gradius (USA)
+  File MD5    FCC019DC8054403FD28B8DE03D7E16AA File CRC32    7A269942 ROM CRC32    350D835E
+">
+<hashes>
+<hash md5="fcc019dc8054403fd28b8de03d7e16aa"/>
+</hashes>
+<cheats>
+<cheat code="SXOOYYVI" type="Game Genie" description="Both players have infinite lives"/>
+<cheat code="GKSGTPSX + KKSGYOLP + XKSKAOOG" type="Game Genie" description="Invincibility"/>
+<cheat code="YGUONUZS + YGKPUUIL" type="Game Genie" description="Never Lose Weapons"/>
+<cheat code="GEKEXPAA" type="Game Genie" description="Always Get Weapon Laser"/>
+</cheats>
+</game>
+
+<game title="Ice Climber (USA, Europe)
+  File MD5    D35F9979F206897DF94FB5425E23FC85 File CRC32    70044A74 ROM CRC32    FB98D46E
+">
 <hashes>
 <hash md5="d35f9979f206897df94fb5425e23fc85"/>
 </hashes>
@@ -295,6 +418,22 @@
 <cheat code="ELKITLEY" type="Game Genie" description="Monsters bump you instead of killing you"/>
 <cheat code="VNSKXUNN + ZESKULPA" type="Game Genie" description="Players double speed"/>
 <cheat code="SNSKXUNN + LESKULPA" type="Game Genie" description="Players triple speed"/>
+</cheats>
+</game>
+
+<game title="Kid Icarus (USA, Europe)
+  File MD5    D464E3E3877A759B8053210BAAEBC890 File CRC32    0B30E036 ROM CRC32    D9F0749F
+  ">
+<hashes>
+<hash md5="d464e3e3877a759b8053210baaebc890"/>
+</hashes>
+<cheats>
+<cheat code="PSZVOV" type="Game Genie" description="ALL ENEMIES AND BOSS FLASHING"/>
+<cheat code="SEUESIIT" type="Game Genie" description="Buy Things For Free"/>
+<cheat code="VVOVSI" type="Game Genie" description="Invincible"/>
+<cheat code="SKXGUYVG" type="Game Genie" description="No Damage From Floor Hazards"/>
+<cheat code="SZSLAPSA" type="Game Genie" description="No Damage From Medusa"/>
+<cheat code="SZUIKLSA" type="Game Genie" description="No Ordinary Damage"/>
 </cheats>
 </game>
 
@@ -448,6 +587,35 @@
 </cheats>
 </game>
 
+<game title="StarTropics (USA)
+  File MD5    02C6BC59ABDF527679A7962C5B390EA6 File CRC32    2ED79B73 ROM CRC32    889129CB
+  File MD5    AB5645CC059A5A2EB828CEF236273D77 File CRC32    4EC835B8 ROM CRC32    889129CB
+">
+<hashes>
+<hash md5="02c6bc59abdf527679a7962c5b390ea6"/>
+<hash md5="ab5645cc059a5a2eb828cef236273d77"/>
+</hashes>
+<cheats>
+<cheat code="SZNZGPAX + VZVZLOSV" type="Game Genie" description="Infinite energy"/>
+<cheat code="SXETAKVK" type="Game Genie" description="Infinite Lives"/>
+<cheat code="SUXXPSVS" type="Game Genie" description="Infinite weapons"/>
+<cheat code="AVSLTPEL + AVUULZEL" type="Game Genie" description="Invincibility"/>
+</cheats>
+</game>
+
+<game title="Super C (USA)
+  File MD5    5FEF80625F484FCA06FDB58EBFF9D8BB File CRC32    1AC846F0 ROM ROM CRC32    305B4E62
+  ">
+<hashes>
+<hash md5="5fef80625f484fca06fdb58ebff9d8bb"/>
+</hashes>
+<cheats>
+<cheat code="SUEAGIVI" type="Game Genie" description="Infinite Lives"/>
+<cheat code="SZVAZTSP + SXXTAISP" type="Game Genie" description="Keep Weapon After Dying"/>
+<cheat code="SZOVXZVG" type="Game Genie" description="Infinite continues"/>
+</cheats>
+</game>
+
 <game title="Super Mario Bros. (World)
   File MD5    811B027EAF99C2DEF7B933C5208636DE File CRC32    3337EC46 ROM CRC32    D445F698
   ">
@@ -560,12 +728,43 @@
 </cheats>
 </game>
 
-<game title="Legend of Zelda II, The - The Adventure of Link (USA)">
+<game title="Tecmo Bowl (USA)
+  File MD5    70BEFC145464F707A55445C7E815C4AC File CRC32    A3B32303 ROM CRC32    CE00022D
+">
+<hashes>
+<hash md5="70befc145464f707a55445c7e815c4ac"/>
+</hashes>
+<cheats>
+<cheat code="OZSIGZSX + NYSIIZVV" type="Game Genie" description="Maximum Acceleration"/>
+<cheat code="OXXOUUPV + IVXOKLZA" type="Game Genie" description="Player 1 Team Always Kick with Maximum Power"/>
+<cheat code="APXATIEY" type="Game Genie" description="Player 1 Cannot Be Tackled"/>
+</cheats>
+</game>
+
+<game title="Tecmo Bowl (USA) (Rev A)
+  File MD5    0C7C6620DC9995F7BA76C04449B51540 File CRC32    E815E1FB ROM CRC32    85A6C0D5
+">
+<hashes>
+<hash md5="0c7c6620dc9995f7ba76c04449b51540"/>
+</hashes>
+<cheats>
+</cheats>
+</game>
+
+<game title="Zelda II - The Adventure of Link (USA)
+  File MD5    764D36FA8A2450834DA5E8194281035A File CRC32    E3C788B0 ROM CRC32    BA322865
+">
 <hashes>
 <hash md5="764d36fa8a2450834da5e8194281035a"/>
 </hashes>
 <cheats>
 <cheat code="SZKGKXVK" type="Game Genie" description="Infinite Lives"/>
+<cheat code="STUTZNON" type="Game Genie" description="All levels of swords do massive damage"/>
+<cheat code="AEUUTVNI" type="Game Genie" description="Faster Text"/>
+<cheat code="XTLTILSV + XTLTTUGE" type="Game Genie" description="Infinite Energy"/>
+<cheat code="GXNAESON" type="Game Genie" description="Infinite Magic"/>
+<cheat code="AAUOLIAU" type="Game Genie" description="Link Can Jump Very High"/>
+<cheat code="APUTYYEY" type="Game Genie" description="One hit kills most enemies"/>
 </cheats>
 </game>
 
