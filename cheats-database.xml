@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <systems>
 
+<!-- Wii -->
+<system id="openemu.system.wii">
+
+<game title="New Super Mario Bros. Wii [SMNE01]">
+<hashes>
+<hash md5="822d539ca319f3c4dfe8c727ed004ed1"/>
+</hashes>
+<cheats>
+<cheat code="04354e90 00000063+0406066c 60000000" type="GameShark" description="Infinite Lives"/>
+<cheat code="04146080 4800004c" type="GameShark" description="Invincibility"/>
+</cheats>
+</game>
+</system>
+
+<!-- GameCube -->
+<system id="openemu.system.GC">
+
+<game title="Legend of Zelda, The - The Wind Waker (USA)">
+<hashes>
+<hash md5="d8e4d45af2032a081a0f446384e9261b"/>
+</hashes>
+<cheats>
+<cheat code="003c4c09 00000050" type="GameShark" description="Max Health"/>
+<cheat code="003c4c0b 00000050" type="GameShark" description="Infinite Health"/>
+</cheats>
+</game>
+</system>
+
 <!-- Gameboy -->
 <system id="openemu.system.gb">
 
@@ -143,13 +171,10 @@
 <hash md5="12228da19c67d56b49c4b77828761700"/>
 </hashes>
 <cheats>
-<cheat code="PASIOALE" type="Game Genie" description="Both players start with 9 rolls"/>
-<cheat code="IESUTYZA" type="Game Genie" description="Start with 6 lives, 1-player game only"/>
-<cheat code="AESUTYZE" type="Game Genie" description="Start with 9 lives, 1-player game only"/>
-<cheat code="IAKUUAZA" type="Game Genie" description="After continue, player 1 has 6 lives in 2-player game"/>
-<cheat code="AAKUUAZE" type="Game Genie" description="After continue, player 1 has 9 lives in 2-player game"/>
-<cheat code="IASUOAZA" type="Game Genie" description="Player 2 has 6 lives in 2-player game"/>
-<cheat code="AASUOAZE" type="Game Genie" description="Player 2 has 9 lives in 2-player game"/>
+<cheat code="SZXLKEVK" type="Game Genie" description="Infinite Lives P1"/>
+<cheat code="SZESPUVK" type="Game Genie" description="Infinite Rolls P1"/>
+<cheat code="OLZNEE" type="Game Genie" description="Invincibility"/>
+<cheat code="SZKULGAX + ALKUTGEL + SZELGKSO + SXULIKSO" type="Game Genie" description="Hit Anywhere"/>
 </cheats>
 </game>
 
@@ -1381,13 +1406,28 @@
 </cheats>
 </game>
 
-<game title="Shinobi (USA, Europe)">
+<game title="Shinobi (Japan)
+  File MD5    789B285290688CBD0A786F888F9DADA1 File CRC32    E1FFF1BB ROM CRC32    E1FFF1BB
+">
 <hashes>
+<hash md5="789b285290688cbd0a786f888f9dada1"/>
+</hashes>
+<cheats>
+<cheat code="00C0-1A06" type="Action Replay" description="Stage Select after Title Screen"/>
+</cheats>
+</game>
+
+<game title="Shinobi (USA, Europe)
+  File MD5    3DD2C025185E19AC9BF1ED16B695C629 File CRC32    0C6FAC4E ROM CRC32    0C6FAC4E
+">
+<hashes>
+<hash md5="3dd2c025185e19ac9bf1ed16b695c629"/>
 <hash md5="e567cc12e01c04cdde08e785f37e22b7"/>
 </hashes>
 <cheats>
 <cheat code="00C0-7A02" type="Action Replay" description="Infinite Lives"/>
 <cheat code="00C0-6C06" type="Action Replay" description="Invincible"/>
+<cheat code="00C0-1A06" type="Action Replay" description="Stage Select after Title Screen"/>
 </cheats>
 </game>
 
@@ -1400,6 +1440,19 @@
 <cheat code="00D2-9A99" type="Action Replay" description="Infinite Rings (99 - Get 1 Ring To Go To Bonus Stage)"/>
 <cheat code="00D2-9A07" type="Action Replay" description="Infinite Rings (07 - Use If You Don't Want To Go To Bonus Stage)"/>
 <cheat code="00D5-0C95" type="Action Replay" description="Higher Jumps"/>
+</cheats>
+</game>
+
+<game title="SpellCaster (USA, Europe)
+  File MD5    0E1449DD7DF4FD0995CCF802BB74CBA0 File CRC32    4752CAE7 ROM CRC32    4752CAE7
+">
+<hashes>
+<hash md5="0e1449dd7df4fd0995ccf802bb74cba0"/>
+</hashes>
+<cheats>
+<cheat code="00C0-2599" type="Action Replay" description="Infinite Strength (Health)"/>
+<cheat code="00C0-2799" type="Action Replay" description="Infinite ENGY"/>
+<cheat code="00C0-2208" type="Action Replay" description="Maximum Strength Modifier "/>
 </cheats>
 </game>
 
@@ -1418,8 +1471,12 @@
 </cheats>
 </game>
 
-<game title="Wonder Boy in Monster Land (USA, Europe)">
+<game title="Wonder Boy in Monster Land (USA, Europe)
+  File MD5    8F8AAAC492DE96F2CFDDB9D1A57DD979 File CRC32    8CBEF0C1 ROM CRC32    8CBEF0C1
+  File MD5    16BE61F4DE705CDD636D1FB1662E24DE File CRC32    8312C429 ROM CRC32    8312C429
+">
 <hashes>
+<hash md5="16be61f4de705cdd636d1fb1662e24de"/>
 <hash md5="8f8aaac492de96f2cfddb9d1a57dd979"/>
 </hashes>
 <cheats>
