@@ -1425,9 +1425,9 @@
 <hash md5="e567cc12e01c04cdde08e785f37e22b7"/>
 </hashes>
 <cheats>
-<cheat code="00C0-7A02" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C0-6C06" type="Action Replay" description="Invincible"/>
-<cheat code="00C0-1A06" type="Action Replay" description="Stage Select after Title Screen"/>
+<cheat code="006-51F-3BE" type="Game Genie" description="Infinite Lives"/>
+<cheat code="C93-334-3B7" type="Game Genie" description="Invincible"/>
+<cheat code="063-31F-E6A" type="Game Genie" description="Stage Select after Title Screen"/>
 </cheats>
 </game>
 
