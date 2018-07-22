@@ -1300,7 +1300,14 @@
 <cheat code="00DF-B503" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
 <cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/> -->
 <cheat code="C9E-BCD-E69 + 186-70C-6EA" type="Game Genie" description="Enable Debug Invincibility"/>  
-  
+<cheat code="180-DDA-6EA" type="Game Genie" description="Enable Infinite Weapons Option from Debug Menu"/>  
+<cheat code="3A1-65A-2A2" type="Game Genie" description="Infinite Health"/>  
+<cheat code="3A6-15E-2A2" type="Game Genie" description="Infinite Lives"/>
+<cheat code="B60-28A-3BE" type="Game Genie" description="Infinite Time"/>    
+<cheat code="7E1-07A-3B7" type="Game Genie" description="Infinite Weapons"/>
+<cheat code="C9F-14D-E69" type="Game Genie" description="Invincibility"/>
+<cheat code="00E-99D-3B4" type="Game Genie" description="Invulnerability"/>
+<cheat code="99D-124-F7A" type="Game Genie" description="Start with 99 Lives"/>
 </cheats>
 </game>
 
