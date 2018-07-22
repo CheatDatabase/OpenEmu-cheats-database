@@ -1286,7 +1286,7 @@
 <hash md5="2cd25b3d9a1ced329a551d7fc3c0f01e"/>
 </hashes>
 <cheats>
-<cheat code="00DF-C815" type="Action Replay" description="Invincibility"/>
+<!-- <cheat code="00DF-C815" type="Action Replay" description="Invincibility"/>
 <cheat code="00DF-C704" type="Action Replay" description="Infinite Lives"/>
 <cheat code="00DF-C3E7" type="Action Replay" description="Infinite Weapons"/>
 <cheat code="00DF-B106" type="Action Replay" description="Infinite Time"/>
@@ -1298,7 +1298,9 @@
 <cheat code="00DF-B501" type="Action Replay" description="Have Weapon Large Shuriken"/>
 <cheat code="00DF-B502" type="Action Replay" description="Have Weapon 4 Way Blast"/>
 <cheat code="00DF-B503" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
-<cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/>
+<cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/> -->
+<cheat code="C9E-BCD-E69 + 186-70C-6EA" type="Game Genie" description="Enable Debug Invincibility"/>  
+  
 </cheats>
 </game>
 
