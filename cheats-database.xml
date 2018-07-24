@@ -1164,30 +1164,30 @@
 <hash md5="68cc1711bb89921da1f215f323f3bb2d"/>
 </hashes>
 <cheats>
-<cheat code="00CC-8C0F" type="Action Replay" description="Infinite Health"/>
-<cheat code="00CD-50FF + 00CD-51FF" type="Action Replay" description="Infinite Zenny"/>
-<cheat code="00CC-E001" type="Action Replay" description="Always Have Life Potion"/>
-<cheat code="00CC-D101 + 00CC-D205" type="Action Replay" description="Always Have Armor"/>
-<cheat code="00CC-9200 + 00CC-9300" type="Action Replay" description="Faster Rate of Fire"/>
-<cheat code="00CC-8700" type="Action Replay" description="Always Have Flying Stone Super Slow"/>
-<cheat code="00CC-8701" type="Action Replay" description="Always Have Flying Stone Normal"/>
-<cheat code="00CC-8702" type="Action Replay" description="Always Have Flying Stone High Speed"/>
-<cheat code="00CC-8703" type="Action Replay" description="Always Have Flying Stone Super High Speed"/>
-<cheat code="00CC-9600" type="Action Replay" description="Always Have Satellite type V Cannon"/>
-<cheat code="00CC-9601" type="Action Replay" description="Always Have Satellite type Missile"/>
-<cheat code="00CC-9602" type="Action Replay" description="Always Have Satellite type Multi-Directional Shot"/>
-<cheat code="00CC-9603" type="Action Replay" description="Always Have Satellite type Fire Bomb"/>
-<cheat code="00CC-9604" type="Action Replay" description="Always Have Satellite type Laser"/>
-<cheat code="00CC-9605" type="Action Replay" description="Always Have Satellite type Bounce Shot"/>
-<cheat code="00CC-9606" type="Action Replay" description="Always Have Satellite type Burner"/>
-<cheat code="00CC-9607" type="Action Replay" description="Always Have Satellite type Vulcan Cannon"/>
-<cheat code="00CC-9608" type="Action Replay" description="Always Have Satellite type Fragmentation Ball"/>
-<cheat code="00CC-9609" type="Action Replay" description="Always Have Satellite type 4-Way Laser"/>
-<cheat code="00CC-960A" type="Action Replay" description="Always Have Satellite type Vulcan Spread Shot"/>
-<cheat code="00CC-960B" type="Action Replay" description="Always Have Satellite type Rolling Barrier
+<cheat code="00CC8C:0F" type="Action Replay" description="Infinite Health"/>
+<cheat code="00CD50:FF + 00CD51:FF" type="Action Replay" description="Infinite Zenny"/>
+<cheat code="00CCE0:01" type="Action Replay" description="Always Have Life Potion"/>
+<cheat code="00CCD1:01 + 00CCD2:05" type="Action Replay" description="Always Have Armor"/>
+<cheat code="00CC92:00 + 00CC93:00" type="Action Replay" description="Faster Rate of Fire"/>
+<cheat code="00CC87:00" type="Action Replay" description="Always Have Flying Stone Super Slow"/>
+<cheat code="00CC87:01" type="Action Replay" description="Always Have Flying Stone Normal"/>
+<cheat code="00CC87:02" type="Action Replay" description="Always Have Flying Stone High Speed"/>
+<cheat code="00CC87:03" type="Action Replay" description="Always Have Flying Stone Super High Speed"/>
+<cheat code="00CC96:00" type="Action Replay" description="Always Have Satellite type V Cannon"/>
+<cheat code="00CC96:01" type="Action Replay" description="Always Have Satellite type Missile"/>
+<cheat code="00CC96:02" type="Action Replay" description="Always Have Satellite type Multi-Directional Shot"/>
+<cheat code="00CC96:03" type="Action Replay" description="Always Have Satellite type Fire Bomb"/>
+<cheat code="00CC96:04" type="Action Replay" description="Always Have Satellite type Laser"/>
+<cheat code="00CC96:05" type="Action Replay" description="Always Have Satellite type Bounce Shot"/>
+<cheat code="00CC96:06" type="Action Replay" description="Always Have Satellite type Burner"/>
+<cheat code="00CC96:07" type="Action Replay" description="Always Have Satellite type Vulcan Cannon"/>
+<cheat code="00CC96:08" type="Action Replay" description="Always Have Satellite type Fragmentation Ball"/>
+<cheat code="00CC96:09" type="Action Replay" description="Always Have Satellite type 4-Way Laser"/>
+<cheat code="00CC96:0A" type="Action Replay" description="Always Have Satellite type Vulcan Spread Shot"/>
+<cheat code="00CC96:0B" type="Action Replay" description="Always Have Satellite type Rolling Barrier
 "/>
-<cheat code="00CC-960C" type="Action Replay" description="Always Have Satellite type Rear Blaster"/>
-<cheat code="00CC-960D" type="Action Replay" description="Always Have Satellite type Fireball"/>
+<cheat code="00CC96:0C" type="Action Replay" description="Always Have Satellite type Rear Blaster"/>
+<cheat code="00CC96:0D" type="Action Replay" description="Always Have Satellite type Fireball"/>
 </cheats>
 </game>
 
@@ -1196,8 +1196,8 @@
 <hash md5="580adb73aecd35348862fb6ed43ae956"/>
 </hashes>
 <cheats>
-<cheat code="00C1-F590" type="Action Replay" description="Infinite Health"/>
-<cheat code="00C1-BA09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C1F5:90" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C1BA:09" type="Action Replay" description="Infinite Lives"/>
 </cheats>
 </game>
 
@@ -1206,29 +1206,29 @@
 <hash md5="501431ccbeb321a9a2762888f0aa61ce"/>
 </hashes>
 <cheats>
-<cheat code="00C0-3309" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C0-4C01" type="Action Replay" description="Infinite Hits"/>
-<cheat code="00C0-4B40" type="Action Replay" description="Fire and Thunder Magic Stays Full"/>
-<cheat code="00C0-3E01" type="Action Replay" description="Conditional Invincibility"/>
-<cheat code="00C0-5201" type="Action Replay" description="Double Clone Has No Time Limit"/>
-<cheat code="00C0-4100" type="Action Replay" description="Arthur Starts With X Weapon Lance/Default"/>
-<cheat code="00C0-4101" type="Action Replay" description="Arthur Starts With X Weapon Dagger"/>
-<cheat code="00C0-4102" type="Action Replay" description="Arthur Starts With X Weapon Axe"/>
-<cheat code="00C0-4103" type="Action Replay" description="Arthur Starts With X Weapon Discus"/>
-<cheat code="00C0-4104" type="Action Replay" description="Arthur Starts With X Weapon Fireball"/>
-<cheat code="00C0-4105" type="Action Replay" description="Arthur Starts With X Weapon Cannon"/>
-<cheat code="00C0-4200" type="Action Replay" description="Arthur Starts With X Helmet Silver/Default"/>
-<cheat code="00C0-4201" type="Action Replay" description="Arthur Starts With X Helmet Red"/>
-<cheat code="00C0-4202" type="Action Replay" description="Arthur Starts With X Helmet Green"/>
-<cheat code="00C0-4203" type="Action Replay" description="Arthur Starts With X Helmet Gold"/>
-<cheat code="00C0-4300" type="Action Replay" description="Arthur Starts With X Armor Silver/Default"/>
-<cheat code="00C0-4301" type="Action Replay" description="Arthur Starts With X Armor Red"/>
-<cheat code="00C0-4302" type="Action Replay" description="Arthur Starts With X Armor Green"/>
-<cheat code="00C0-4303" type="Action Replay" description="Arthur Starts With X Armor Gold"/>
-<cheat code="00C0-4400" type="Action Replay" description="Arthur Starts With X Shoes Silver/Default"/>
-<cheat code="00C0-4401" type="Action Replay" description="Arthur Starts With X Shoes Red"/>
-<cheat code="00C0-4402" type="Action Replay" description="Arthur Starts With X Shoes Green"/>
-<cheat code="00C0-4403" type="Action Replay" description="Arthur Starts With X Shoes Gold"/>
+<cheat code="00C033:09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C04C:01" type="Action Replay" description="Infinite Hits"/>
+<cheat code="00C04B:40" type="Action Replay" description="Fire and Thunder Magic Stays Full"/>
+<cheat code="00C03E:01" type="Action Replay" description="Conditional Invincibility"/>
+<cheat code="00C052:01" type="Action Replay" description="Double Clone Has No Time Limit"/>
+<cheat code="00C041:00" type="Action Replay" description="Arthur Starts With X Weapon Lance/Default"/>
+<cheat code="00C041:01" type="Action Replay" description="Arthur Starts With X Weapon Dagger"/>
+<cheat code="00C041:02" type="Action Replay" description="Arthur Starts With X Weapon Axe"/>
+<cheat code="00C041:03" type="Action Replay" description="Arthur Starts With X Weapon Discus"/>
+<cheat code="00C041:04" type="Action Replay" description="Arthur Starts With X Weapon Fireball"/>
+<cheat code="00C041:05" type="Action Replay" description="Arthur Starts With X Weapon Cannon"/>
+<cheat code="00C042:00" type="Action Replay" description="Arthur Starts With X Helmet Silver/Default"/>
+<cheat code="00C042:01" type="Action Replay" description="Arthur Starts With X Helmet Red"/>
+<cheat code="00C042:02" type="Action Replay" description="Arthur Starts With X Helmet Green"/>
+<cheat code="00C042:03" type="Action Replay" description="Arthur Starts With X Helmet Gold"/>
+<cheat code="00C043:00" type="Action Replay" description="Arthur Starts With X Armor Silver/Default"/>
+<cheat code="00C043:01" type="Action Replay" description="Arthur Starts With X Armor Red"/>
+<cheat code="00C043:02" type="Action Replay" description="Arthur Starts With X Armor Green"/>
+<cheat code="00C043:03" type="Action Replay" description="Arthur Starts With X Armor Gold"/>
+<cheat code="00C044:00" type="Action Replay" description="Arthur Starts With X Shoes Silver/Default"/>
+<cheat code="00C044:01" type="Action Replay" description="Arthur Starts With X Shoes Red"/>
+<cheat code="00C044:02" type="Action Replay" description="Arthur Starts With X Shoes Green"/>
+<cheat code="00C044:03" type="Action Replay" description="Arthur Starts With X Shoes Gold"/>
 </cheats>
 </game>
 
@@ -1237,9 +1237,9 @@
 <hash md5="25cc787700fd9f1a5abf1c381d1b897b"/>
 </hashes>
 <cheats>
-<cheat code="00C0-0501 + 00C0-4501" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C0-0601" type="Action Replay" description="Infinite Level 1 Magic"/>
-<cheat code="00C1-871F" type="Action Replay" description="Infinite Energy"/>
+<cheat code="00C005:01 + 00C0-4501" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C006:01" type="Action Replay" description="Infinite Level 1 Magic"/>
+<cheat code="00C187:1F" type="Action Replay" description="Infinite Energy"/>
 </cheats>
 </game>
 
