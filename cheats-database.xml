@@ -1286,19 +1286,19 @@
 <hash md5="2cd25b3d9a1ced329a551d7fc3c0f01e"/>
 </hashes>
 <cheats>
-<cheat code="00DF-C8:15" type="Action Replay" description="Invincibility"/>
-<cheat code="00DF-C7:04" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00DF-C3:E7" type="Action Replay" description="Infinite Weapons"/>
-<cheat code="00DF-B1:06" type="Action Replay" description="Infinite Time"/>
-<cheat code="00CA-3C:F1" type="Action Replay" description="Invincibility (Alternate)"/>
-<cheat code="00CB-7C:00" type="Action Replay" description="Bosses Are Never Invincible"/>
-<cheat code="00CB-7A:00" type="Action Replay" description="Bosses Die In 1 Hit"/>
-<cheat code="00DF-B0:00" type="Action Replay" description="Infinite Time (Alternate)"/>
-<cheat code="00DF-B5:00" type="Action Replay" description="Have Weapon Small Shuriken"/>
-<cheat code="00DF-B5:01" type="Action Replay" description="Have Weapon Large Shuriken"/>
-<cheat code="00DF-B5:02" type="Action Replay" description="Have Weapon 4 Way Blast"/>
-<cheat code="00DF-B5:03" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
-<cheat code="00DF-B5:04" type="Action Replay" description="Have Weapon Fire Shield"/>
+<cheat code="00DFC8:15" type="Action Replay" description="Invincibility"/>
+<cheat code="00DFC7:04" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00DFC3:E7" type="Action Replay" description="Infinite Weapons"/>
+<cheat code="00DFB1:06" type="Action Replay" description="Infinite Time"/>
+<cheat code="00CA3C:F1" type="Action Replay" description="Invincibility (Alternate)"/>
+<cheat code="00CB7C:00" type="Action Replay" description="Bosses Are Never Invincible"/>
+<cheat code="00CB7A:00" type="Action Replay" description="Bosses Die In 1 Hit"/>
+<cheat code="00DFB0:00" type="Action Replay" description="Infinite Time (Alternate)"/>
+<cheat code="00DFB5:00" type="Action Replay" description="Have Weapon Small Shuriken"/>
+<cheat code="00DFB5:01" type="Action Replay" description="Have Weapon Large Shuriken"/>
+<cheat code="00DFB5:02" type="Action Replay" description="Have Weapon 4 Way Blast"/>
+<cheat code="00DFB5:03" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
+<cheat code="00DFB5:04" type="Action Replay" description="Have Weapon Fire Shield"/>
 <cheat code="C9E-BCD-E69 + 186-70C-6EA" type="Game Genie" description="Enable Debug Invincibility"/>  
 <cheat code="180-DDA-6EA" type="Game Genie" description="Enable Infinite Weapons Option from Debug Menu"/>  
 <cheat code="3A1-65A-2A2" type="Game Genie" description="Infinite Health"/>  
