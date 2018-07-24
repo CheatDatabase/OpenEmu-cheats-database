@@ -1237,7 +1237,7 @@
 <hash md5="25cc787700fd9f1a5abf1c381d1b897b"/>
 </hashes>
 <cheats>
-<cheat code="00C005:01 + 00C0-4501" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C005:01 + 00C045:01" type="Action Replay" description="Infinite Lives"/>
 <cheat code="00C006:01" type="Action Replay" description="Infinite Level 1 Magic"/>
 <cheat code="00C187:1F" type="Action Replay" description="Infinite Energy"/>
 </cheats>
@@ -1248,15 +1248,15 @@
 <hash md5="e83f8c99882e2123bd344090421e84c3"/>
 </hashes>
 <cheats>
-<cheat code="00C9-8709" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00CB-B909" type="Action Replay" description="Infinite Time - Ten's Digit"/>
-<cheat code="00CB-A909" type="Action Replay" description="Infinite Time - One's Digit"/>
-<cheat code="00C9-7309" type="Action Replay" description="Infinite Whips"/>
-<cheat code="00CB-A309" type="Action Replay" description="FAKE Infinite Time - Ten's Digit"/>
-<cheat code="00CB-BA09" type="Action Replay" description="FAKE Infinite Time - One's Digit"/>
-<cheat code="00CB-AF09" type="Action Replay" description="FAKE Infinite Whips"/>
-<cheat code="000C9-C13E" type="Action Replay" description="FAKE Infinite Health"/>
-<cheat code="00C9-C002" type="Action Replay" description="Infinite Credits (Continues)"/>
+<cheat code="00C987:09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00CBB9:09" type="Action Replay" description="Infinite Time - Ten's Digit"/>
+<cheat code="00CBA9:09" type="Action Replay" description="Infinite Time - One's Digit"/>
+<cheat code="00C973:09" type="Action Replay" description="Infinite Whips"/>
+<cheat code="00CBA3:09" type="Action Replay" description="FAKE Infinite Time - Ten's Digit"/>
+<cheat code="00CBBA:09" type="Action Replay" description="FAKE Infinite Time - One's Digit"/>
+<cheat code="00CBAF:09" type="Action Replay" description="FAKE Infinite Whips"/>
+<cheat code="00C9C1:3E" type="Action Replay" description="FAKE Infinite Health"/>
+<cheat code="00C9C0:02" type="Action Replay" description="Infinite Credits (Continues)"/>
 </cheats>
 </game>
 
@@ -1265,7 +1265,7 @@
 <hash md5="c52e496c497d427747769aaedfbb8dab"/>
 </hashes>
 <cheats>
-<cheat code="00C1-1304" type="Action Replay" description="Always Have Full Life (You can still die if you fall from a great height!)"/>
+<cheat code="00C113:04" type="Action Replay" description="Always Have Full Life (You can still die if you fall from a great height!)"/>
 </cheats>
 </game>
 
@@ -1275,9 +1275,9 @@
 <hash md5="93dbdbe850b4a7db2142b861f8005716"/>
 </hashes>
 <cheats>
-<cheat code="00C1-1114" type="Action Replay" description="Infinite Health"/>
-<cheat code="00C0-9009" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C1-1E1B" type="Action Replay" description="Invulnerability"/>
+<cheat code="00C111:14" type="Action Replay" description="Infinite Health"/>
+<cheat code="00C090:09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C11E:1B" type="Action Replay" description="Invulnerability"/>
 </cheats>
 </game>
 
@@ -1286,19 +1286,19 @@
 <hash md5="2cd25b3d9a1ced329a551d7fc3c0f01e"/>
 </hashes>
 <cheats>
-<!-- <cheat code="00DF-C815" type="Action Replay" description="Invincibility"/>
-<cheat code="00DF-C704" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00DF-C3E7" type="Action Replay" description="Infinite Weapons"/>
-<cheat code="00DF-B106" type="Action Replay" description="Infinite Time"/>
-<cheat code="00CA-3CF1" type="Action Replay" description="Invincibility (Alternate)"/>
-<cheat code="00CB-7C00" type="Action Replay" description="Bosses Are Never Invincible"/>
-<cheat code="00CB-7A00" type="Action Replay" description="Bosses Die In 1 Hit"/>
-<cheat code="00DF-B000" type="Action Replay" description="Infinite Time (Alternate)"/>
-<cheat code="00DF-B500" type="Action Replay" description="Have Weapon Small Shuriken"/>
-<cheat code="00DF-B501" type="Action Replay" description="Have Weapon Large Shuriken"/>
-<cheat code="00DF-B502" type="Action Replay" description="Have Weapon 4 Way Blast"/>
-<cheat code="00DF-B503" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
-<cheat code="00DF-B504" type="Action Replay" description="Have Weapon Fire Shield"/> -->
+<cheat code="00DF-C8:15" type="Action Replay" description="Invincibility"/>
+<cheat code="00DF-C7:04" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00DF-C3:E7" type="Action Replay" description="Infinite Weapons"/>
+<cheat code="00DF-B1:06" type="Action Replay" description="Infinite Time"/>
+<cheat code="00CA-3C:F1" type="Action Replay" description="Invincibility (Alternate)"/>
+<cheat code="00CB-7C:00" type="Action Replay" description="Bosses Are Never Invincible"/>
+<cheat code="00CB-7A:00" type="Action Replay" description="Bosses Die In 1 Hit"/>
+<cheat code="00DF-B0:00" type="Action Replay" description="Infinite Time (Alternate)"/>
+<cheat code="00DF-B5:00" type="Action Replay" description="Have Weapon Small Shuriken"/>
+<cheat code="00DF-B5:01" type="Action Replay" description="Have Weapon Large Shuriken"/>
+<cheat code="00DF-B5:02" type="Action Replay" description="Have Weapon 4 Way Blast"/>
+<cheat code="00DF-B5:03" type="Action Replay" description="Have Weapon Seeker Fireballs"/>
+<cheat code="00DF-B5:04" type="Action Replay" description="Have Weapon Fire Shield"/>
 <cheat code="C9E-BCD-E69 + 186-70C-6EA" type="Game Genie" description="Enable Debug Invincibility"/>  
 <cheat code="180-DDA-6EA" type="Game Genie" description="Enable Infinite Weapons Option from Debug Menu"/>  
 <cheat code="3A1-65A-2A2" type="Game Genie" description="Infinite Health"/>  
@@ -1316,10 +1316,10 @@
 <hash md5="8ddec589f72cdcf2cd4caafb075ec8e4"/>
 </hashes>
 <cheats>
-<cheat code="00C1-1D63" type="Action Replay" description="Infinite Time"/>
-<cheat code="00C1-1909" type="Action Replay" description="Infinite Eggs (Lives)"/>
-<cheat code="00C4-0105" type="Action Replay" description="No Penguin"/>
-<cheat code="00C1-A205" type="Action Replay" description="Infinite Polar Bears (In Map Design)"/>
+<cheat code="00C11D:63" type="Action Replay" description="Infinite Time"/>
+<cheat code="00C119:09" type="Action Replay" description="Infinite Eggs (Lives)"/>
+<cheat code="00C401:05" type="Action Replay" description="No Penguin"/>
+<cheat code="00C1A2:05" type="Action Replay" description="Infinite Polar Bears (In Map Design)"/>
 </cheats>
 </game>
 
@@ -1328,7 +1328,7 @@
 <hash md5="70e9b330dd6a91e7310f3c8d9a934ecc"/>
 </hashes>
 <cheats>
-<cheat code="00C2-9208" type="Action Replay" description="Infinite Life"/>
+<cheat code="00C292:08" type="Action Replay" description="Infinite Life"/>
 </cheats>
 </game>
 
@@ -1337,19 +1337,19 @@
 <hash md5="a9c2facf9ef536d095414ce2e7ce2f4f"/>
 </hashes>
 <cheats>
-<cheat code="00C0-1609" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C0-1C03" type="Action Replay" description="Start With BirdFly"/>
-<cheat code="00C0-B701" type="Action Replay" description="Rapid Fire BirdFly (Instant Return)"/>
-<cheat code="00C0-1905" type="Action Replay" description="Unlimited Money (Turn Off To Finish Betting)"/>
-<cheat code="00C0-1B09" type="Action Replay" description="Unlimited Potions"/>
-<cheat code="00C0-1809" type="Action Replay" description="Unlimited Effigies"/>
-<cheat code="00C0-1A09" type="Action Replay" description="Unlimited Psycho Sticks"/>
-<cheat code="00C0-1701" type="Action Replay" description="Start As Hippo"/>
-<cheat code="00C0-1702" type="Action Replay" description="Start As Monkey"/>
-<cheat code="00C0-1703" type="Action Replay" description="Start As Tiger"/>
-<cheat code="00C0-2014" type="Action Replay" description="Level Select (7-3)"/>
-<cheat code="00C0-2015" type="Action Replay" description="Warp Level Select A"/>
-<cheat code="00C0-201C" type="Action Replay" description="Warp Level Select B"/>
+<cheat code="00C016:09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C01C:03" type="Action Replay" description="Start With BirdFly"/>
+<cheat code="00C0B7:01" type="Action Replay" description="Rapid Fire BirdFly (Instant Return)"/>
+<cheat code="00C019:05" type="Action Replay" description="Unlimited Money (Turn Off To Finish Betting)"/>
+<cheat code="00C01B:09" type="Action Replay" description="Unlimited Potions"/>
+<cheat code="00C018:09" type="Action Replay" description="Unlimited Effigies"/>
+<cheat code="00C01A:09" type="Action Replay" description="Unlimited Psycho Sticks"/>
+<cheat code="00C017:01" type="Action Replay" description="Start As Hippo"/>
+<cheat code="00C017:02" type="Action Replay" description="Start As Monkey"/>
+<cheat code="00C017:03" type="Action Replay" description="Start As Tiger"/>
+<cheat code="00C020:14" type="Action Replay" description="Level Select (7-3)"/>
+<cheat code="00C020:15" type="Action Replay" description="Warp Level Select A"/>
+<cheat code="00C020:1C" type="Action Replay" description="Warp Level Select B"/>
 </cheats>
 </game>
 
@@ -1358,14 +1358,14 @@
 <hash md5="9e5507d51ac6f24c702a52a7abce0d3c"/>
 </hashes>
 <cheats>
-<cheat code="00CC-0409" type="Action Replay" description="Infinite Credits (Continues)"/>
-<cheat code="00CE-0103" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00CE-D8FF" type="Action Replay" description="Invincibility (Flashing)"/>
-<cheat code="00CE-0B01" type="Action Replay" description="Always Have Missiles"/>
-<cheat code="00CE-0206" type="Action Replay" description="Speed Modifier"/>
-<cheat code="00CE-0400" type="Action Replay" description="Always Have Weapon Reflective Laser"/>
-<cheat code="00CE-0401" type="Action Replay" description="Always Have Weapon Ring Laser"/>
-<cheat code="00CE-0402" type="Action Replay" description="Always Have Weapon Ground Fire" />
+<cheat code="00CC04:09" type="Action Replay" description="Infinite Credits (Continues)"/>
+<cheat code="00CE01:03" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00CED8:FF" type="Action Replay" description="Invincibility (Flashing)"/>
+<cheat code="00CE0B:01" type="Action Replay" description="Always Have Missiles"/>
+<cheat code="00CE02:06" type="Action Replay" description="Speed Modifier"/>
+<cheat code="00CE04:00" type="Action Replay" description="Always Have Weapon Reflective Laser"/>
+<cheat code="00CE04:01" type="Action Replay" description="Always Have Weapon Ring Laser"/>
+<cheat code="00CE04:02" type="Action Replay" description="Always Have Weapon Ground Fire" />
 </cheats>
 </game>
 
@@ -1374,10 +1374,10 @@
 <hash md5="7a080a155ad6a806da88aa1d3576d78c"/>
 </hashes>
 <cheats>
-<cheat code="00C1-2103" type="Action Replay" description="Infinite Arrows P1"/>
-<cheat code="00C1-1F02" type="Action Replay" description="Infinite Lives P1"/>
-<cheat code="00C1-2003" type="Action Replay" description="Infinite Lives P2"/>
-<cheat code="00C1-2205" type="Action Replay" description="Infinite Arrows P2"/>
+<cheat code="00C121:03" type="Action Replay" description="Infinite Arrows P1"/>
+<cheat code="00C11F:02" type="Action Replay" description="Infinite Lives P1"/>
+<cheat code="00C120:03" type="Action Replay" description="Infinite Lives P2"/>
+<cheat code="00C122:05" type="Action Replay" description="Infinite Arrows P2"/>
 </cheats>
 </game>
 
@@ -1386,10 +1386,10 @@
 <hash md5="5b3a785de403c311db7f17eae27caae6"/>
 </hashes>
 <cheats>
-<cheat code="00C0-2064" type="Action Replay" description="Infinite Life"/>
-<cheat code="00C0-1703" type="Action Replay" description="Invincibility"/>
-<cheat code="00C1-4A15" type="Action Replay" description="Start On Final Level"/>
-<cheat code="00C0-01FF" type="Action Replay" description="Have All Items"/>
+<cheat code="00C020:64" type="Action Replay" description="Infinite Life"/>
+<cheat code="00C017:03" type="Action Replay" description="Invincibility"/>
+<cheat code="00C14A:15" type="Action Replay" description="Start On Final Level"/>
+<cheat code="00C001:FF" type="Action Replay" description="Have All Items"/>
 </cheats>
 </game>
 
@@ -1398,11 +1398,11 @@
 <hash md5="e884f9aa4063d0a90666fc3fa509c8bb"/>
 </hashes>
 <cheats>
-<cheat code="00C0-AC99" type="Action Replay" description="99 Hits (Training)"/>
-<cheat code="00C1-C32F" type="Action Replay" description="Infinite Health P1"/>
-<cheat code="00C1-E300" type="Action Replay" description="No Health P2"/>
-<cheat code="00C1-C200" type="Action Replay" description="Move Rocky To The Far Left"/>
-<cheat code="00C0-5F0E" type="Action Replay" description="Takes You Straight To Round 15"/>
+<cheat code="00C0AC:99" type="Action Replay" description="99 Hits (Training)"/>
+<cheat code="00C1C3:2F" type="Action Replay" description="Infinite Health P1"/>
+<cheat code="00C1E3:00" type="Action Replay" description="No Health P2"/>
+<cheat code="00C1C2:00" type="Action Replay" description="Move Rocky To The Far Left"/>
+<cheat code="00C05F:0E" type="Action Replay" description="Takes You Straight To Round 15"/>
 </cheats>
 </game>
 
@@ -1411,7 +1411,7 @@
 <hash md5="82b9ee0920c3c46798ecd659be0a5d9a"/>
 </hashes>
 <cheats>
-<cheat code="00C1-CA09" type="Action Replay" description="Infinite Lives P1"/>
+<cheat code="00C1CA:09" type="Action Replay" description="Infinite Lives P1"/>
 </cheats>
 </game>
 
@@ -1422,7 +1422,7 @@
 <hash md5="789b285290688cbd0a786f888f9dada1"/>
 </hashes>
 <cheats>
-<cheat code="00C0-1A06" type="Action Replay" description="Stage Select after Title Screen"/>
+<cheat code="00C01A:06" type="Action Replay" description="Stage Select after Title Screen"/>
 </cheats>
 </game>
 
@@ -1445,10 +1445,10 @@
 <hash md5="1d661134b14eedf6b4ae1c907581fd96"/>
 </hashes>
 <cheats>
-<cheat code="00D2-9999" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00D2-9A99" type="Action Replay" description="Infinite Rings (99 - Get 1 Ring To Go To Bonus Stage)"/>
-<cheat code="00D2-9A07" type="Action Replay" description="Infinite Rings (07 - Use If You Don't Want To Go To Bonus Stage)"/>
-<cheat code="00D5-0C95" type="Action Replay" description="Higher Jumps"/>
+<cheat code="00D299:99" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00D29A:99" type="Action Replay" description="Infinite Rings (99 - Get 1 Ring To Go To Bonus Stage)"/>
+<cheat code="00D29A:07" type="Action Replay" description="Infinite Rings (07 - Use If You Don't Want To Go To Bonus Stage)"/>
+<cheat code="00D50C:95" type="Action Replay" description="Higher Jumps"/>
 </cheats>
 </game>
 
@@ -1459,9 +1459,9 @@
 <hash md5="0e1449dd7df4fd0995ccf802bb74cba0"/>
 </hashes>
 <cheats>
-<cheat code="00C0-2599" type="Action Replay" description="Infinite Strength (Health)"/>
-<cheat code="00C0-2799" type="Action Replay" description="Infinite ENGY"/>
-<cheat code="00C0-2208" type="Action Replay" description="Maximum Strength Modifier "/>
+<cheat code="00C025:99" type="Action Replay" description="Infinite Strength (Health)"/>
+<cheat code="00C027:99" type="Action Replay" description="Infinite ENGY"/>
+<cheat code="00C022:08" type="Action Replay" description="Maximum Strength Modifier "/>
 </cheats>
 </game>
 
@@ -1470,13 +1470,13 @@
 <hash md5="7e805aa51bfb5f206c950a32ebcdab7c"/>
 </hashes>
 <cheats>
-<cheat code="00C1-4309" type="Action Replay" description="Infinite Lives"/>
-<cheat code="00C1-7013" type="Action Replay" description="Freeze Wonder Boy's Jogging Animation"/>
-<cheat code="00CC-3611" type="Action Replay" description="Infinite Red/Yellow Bar"/>
-<cheat code="00C1-2703" type="Action Replay" description="Invincibility + Stone Hammers"/>
-<cheat code="00C1-2701" type="Action Replay" description="Start With Stone Hammers"/>
-<cheat code="00C1-3028" type="Action Replay" description="40 Dolls"/>
-<cheat code="00C1-73FF" type="Action Replay" description="Rapid Fire On Controller Buttons"/>
+<cheat code="00C143:09" type="Action Replay" description="Infinite Lives"/>
+<cheat code="00C170:13" type="Action Replay" description="Freeze Wonder Boy's Jogging Animation"/>
+<cheat code="00CC36:11" type="Action Replay" description="Infinite Red/Yellow Bar"/>
+<cheat code="00C127:03" type="Action Replay" description="Invincibility + Stone Hammers"/>
+<cheat code="00C127:01" type="Action Replay" description="Start With Stone Hammers"/>
+<cheat code="00C130:28" type="Action Replay" description="40 Dolls"/>
+<cheat code="00C173:FF" type="Action Replay" description="Rapid Fire On Controller Buttons"/>
 </cheats>
 </game>
 
@@ -1489,22 +1489,22 @@
 <hash md5="8f8aaac492de96f2cfddb9d1a57dd979"/>
 </hashes>
 <cheats>
-<cheat code="00C0-B999" type="Action Replay" description="Always Have 99 Gold"/>
-<cheat code="00C0-BC14" type="Action Replay" description="Invincibility"/>
-<cheat code="00C1-AB04" type="Action Replay" description="Infinite Revival Potions"/>
-<cheat code="00C1-C301" type="Action Replay" description="Mega Jumps"/>
-<cheat code="00C0-BA44" type="Action Replay" description="Infinite Money"/>
-<cheat code="00C2-5400" type="Action Replay" description="Start With The Sword"/>
-<cheat code="00C1-A102" type="Action Replay" description="Start With The Shield"/>
-<cheat code="00C1-A302" type="Action Replay" description="Start With The Gauntlet"/>
-<cheat code="00C1-A502" type="Action Replay" description="Start With The Helmet"/>
-<cheat code="00C1-A702" type="Action Replay" description="Start With The Wing Boots"/>
-<cheat code="00C1-BF03" type="Action Replay" description="Start With The Key"/>
-<cheat code="00C1-A204" type="Action Replay" description="Legendary Sword (When You Pick Up 1st Sword)"/>
-<cheat code="00C1-A005" type="Action Replay" description="Legendary Armor"/>
-<cheat code="00C1-EC05" type="Action Replay" description="Start With The Bell"/>
-<cheat code="00C1-C101" type="Action Replay" description="Wonderboy Is Invulnerable"/>
-<cheat code="00C0-BD0A" type="Action Replay" description="Wonderboy Starts With Maximum Hearts"/>
+<cheat code="00C0B9:99" type="Action Replay" description="Always Have 99 Gold"/>
+<cheat code="00C0BC:14" type="Action Replay" description="Invincibility"/>
+<cheat code="00C1AB:04" type="Action Replay" description="Infinite Revival Potions"/>
+<cheat code="00C1C3:01" type="Action Replay" description="Mega Jumps"/>
+<cheat code="00C0BA:44" type="Action Replay" description="Infinite Money"/>
+<cheat code="00C254:00" type="Action Replay" description="Start With The Sword"/>
+<cheat code="00C1A1:02" type="Action Replay" description="Start With The Shield"/>
+<cheat code="00C1A3:02" type="Action Replay" description="Start With The Gauntlet"/>
+<cheat code="00C1A5:02" type="Action Replay" description="Start With The Helmet"/>
+<cheat code="00C1A7:02" type="Action Replay" description="Start With The Wing Boots"/>
+<cheat code="00C1BF:03" type="Action Replay" description="Start With The Key"/>
+<cheat code="00C1A2:04" type="Action Replay" description="Legendary Sword (When You Pick Up 1st Sword)"/>
+<cheat code="00C1A0:05" type="Action Replay" description="Legendary Armor"/>
+<cheat code="00C1EC:05" type="Action Replay" description="Start With The Bell"/>
+<cheat code="00C1C1:01" type="Action Replay" description="Wonderboy Is Invulnerable"/>
+<cheat code="00C0BD:0A" type="Action Replay" description="Wonderboy Starts With Maximum Hearts"/>
 </cheats>
 </game>
 
