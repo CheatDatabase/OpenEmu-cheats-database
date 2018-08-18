@@ -813,6 +813,23 @@
 <cheat code="7E0DC1:01" type="Action Replay" description="Always have Yoshi"/>
 </cheats>
 </game>
+  
+<game title="The Legend of Zelda: A Link to the Past">
+<hashes>
+<hash md5="608c22b8ff930c62dc2de54bcd6eba72"/>
+</hashes>
+<cheats>
+<cheat code="D6B5-049E" type="Game Genie" description="Spin Attack Needs Nearly No Charge Time"/>
+<cheat code="CB33-6FFA + 2B33-6F9A" type="Game Genie"Walk Faster"/>
+<cheat code="AE67-0D30" type="Game Genie" description="Infinite bombs"/>
+<cheat code="0780F7:CF" type="Action Replay" description="Infinite Energy"/>
+<cheat code="AE8D-0D9A + AE8A-D4FA + AE28-D4C7 + AEC7-6D2E + AEC8-6FBE" type="Game Genie" description="Infinite Magic"/>
+<cheat code="DFEE-D42F" type="Game Genie" description="Bombs Full"/>
+<cheat code="B431-A4B8" type="Game Genie" description="Enemies Die in 1 Hit"/>
+<cheat code="EE28-043A" type="Game Genie" description="Green Rubies Worth 255 Instead Of 1 On Pick-Up"/>
+<cheat code="7EF36D:A0" type="Action Replay" description="Have 20 Heart Containers which are always full"/>
+</cheats>
+</game>  
 
 </system>
 
