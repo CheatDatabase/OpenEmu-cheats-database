@@ -820,15 +820,47 @@
 </hashes>
 <cheats>
 <cheat code="D6B5-049E" type="Game Genie" description="Spin Attack Needs Nearly No Charge Time"/>
-<cheat code="CB33-6FFA + 2B33-6F9A" type="Game Genie"Walk Faster"/>
+<cheat code="7EF350:01" type="Action Replay"Cane of Somaria"/>
 <cheat code="AE67-0D30" type="Game Genie" description="Infinite bombs"/>
-<cheat code="0780F7:CF" type="Action Replay" description="Infinite Energy"/>
-<cheat code="AE8D-0D9A + AE8A-D4FA + AE28-D4C7 + AEC7-6D2E + AEC8-6FBE" type="Game Genie" description="Infinite Magic"/>
-<cheat code="DFEE-D42F" type="Game Genie" description="Bombs Full"/>
+<cheat code="7EF351:01" type="Action Replay" description="Cane of Byrna"/>
+<cheat code="7EF352:01" type="Action Replay" description="Magic Cape"/>
+<cheat code="7EF346:01" type="Action Replay" description="Ice Rod"/>
 <cheat code="B431-A4B8" type="Game Genie" description="Enemies Die in 1 Hit"/>
-<cheat code="EE28-043A" type="Game Genie" description="Green Rubies Worth 255 Instead Of 1 On Pick-Up"/>
+<cheat code="7EF345:01" type="Action Replay" description="Fire Rod"/>
 <cheat code="7EF36D:A0" type="Action Replay" description="Have 20 Heart Containers which are always full"/>
-</cheats>
+<cheat code="7EF342:01" type="Action Replay" description="Hook Shot"/>
+<cheat code="7EF340:01" type="Action Replay" description="Bow"/>
+<cheat code="7EF347:01" type="Action Replay" description="Bombos"/>
+<cheat code="7EF348:01" type="Action Replay" description="Ether"/>
+<cheat code="7EF349:01" type="Action Replay" description="Quake"/>
+<cheat code="7EF356:01" type="Action Replay" description="Zora's Flippers"/>                                                                 
+<cheat code="7EF357:01" type="Action Replay" description="Moon pearl"/>
+<cheat code="7EF354:01" type="Action Replay" description="Power Glove"/>
+<cheat code="7EF374:07" type="Action Replay" description="All Pendants"/>
+<cheat code="7EF354:02" type="Action Replay" description="Titans mitts"/>                                                               
+<cheat code="7EF340:04" type="Action Replay" description="Bow and Silver Arrows"/>
+<cheat code="7EF353:02" type="Action Replay" description="Magic Mirror"/>                                                               </cheats>
+<cheat code="7EF360:E7" type="Action Replay" description="Infinite Rupees"/>
+<cheat code="7EF361:03" type="Action Replay" description="Infinite Rupees"/>
+<cheat code="7EF36F:09" type="Action Replay" description="Infinite small keys"/>
+<cheat code="7E045A:03" type="Action Replay" description="All dark rooms always lit"/>
+<cheat code="7EF359:01" type="Action Replay" description="Uncle's Sword"/>
+<cheat code="7EF359:02" type="Action Replay" description="Master Sword"/>
+<cheat code="7EF359:03" type="Action Replay" description="Tempered Sword"/>
+<cheat code="7EF359:04" type="Action Replay" description="Golden Sword"/>
+<cheat code="7EF35A:01" type="Action Replay" description="Uncle's Shield"/>
+<cheat code="7EF35A:02" type="Action Replay" description="Red Shield"/>
+<cheat code="7EF35A:03" type="Action Replay" description="Mirror Shield"/>
+<cheat code="7EF35B:01" type="Action Replay" description="Blue Mail"/>
+<cheat code="7EF35B:02" type="Action Replay" description="Red Mail"/>
+<cheat code="7E0055:01" type="Action Replay" description="Always wearing Magic Cape, but can use other items"/>
+<cheat code="7EF343:32" type="Action Replay" description="Always have 50 bombs"/>
+<cheat code="7EF360:FF + 7EF362:FF" type="Action Replay" description="Unlimited rupees"/>
+<cheat code="7EF36D:50" type="Action Replay" description="Always have ten hearts"/>
+<cheat code="7EF36E:80" type="Action Replay" description="Unlimited magic energy"/>
+<cheat code="7EF377:46" type="Action Replay" description="Unlimited 70 arrows"/>                                                               
+<cheat code="7EF3F4:33" type="Action Replay" description="Unlimited arrows"/>
+</cheats>                                                                                                                                                                                                                                                                         
 </game>  
 
 </system>
